@@ -40,6 +40,8 @@ Most cast members play other characters and, at times, act as a chorus.
 
 **NICK (ACTOR ONE)**
 
+Chapter one.
+
 In my younger and more vulnerable years my father gave me some advice that I’ve been turning over in my mind ever since.
 
 **A READER (ACTOR TWO)**
@@ -1079,10 +1081,710 @@ Their interest rather touched me and made them less remotely rich—
 
 Good night.
 
-*[As NICK continues, DAISY and TOM return inside, where they're served more drinks, and a servant brings in their child, played perhaps by a doll, an empty stroller, or just mimed. Maybe TOM turns on the radio. The scene becomes warm and domestic.]*
+*[As NICK continues, DAISY and TOM return inside, where they're served more drinks, and a servant brings in their child, played perhaps by a doll, an empty stroller, or just mimed. The scene becomes warm and domestic.]*
+
+*[TOM turns on the radio. Romantic music plays*]
 
 Nevertheless, I was confused and a little disgusted as I drove away. It seemed to me that the thing for Daisy to do was to rush out of the house, child in arms—but apparently there were no such intentions in her head. As for Tom, the fact that he “had some woman in New York” was really less surprising than that he had been depressed by a book. Something was making him nibble at the edge of stale ideas as if his sturdy physical egotism no longer nourished his peremptory heart.
 
 Already it was deep summer on roadhouse roofs and in front of wayside garages, where new red petrol-pumps sat out in pools of light, and when I reached my estate at West Egg I ran the car under its shed and sat for a while on an abandoned grass roller in the yard. The wind had blown off, leaving a loud, bright night, with wings beating in the trees and a persistent organ sound as the full bellows of the earth blew the frogs full of life. The silhouette of a moving cat wavered across the moonlight, and, turning my head to watch it, I saw that I was not alone—fifty feet away a figure had emerged from the shadow of my neighbour’s mansion and was standing with his hands in his pockets regarding the silver pepper of the stars. Something in his leisurely movements and the secure position of his feet upon the lawn suggested that it was Mr. Gatsby himself, come out to determine what share was his of our local heavens.
 
 I decided to call to him. Miss Baker had mentioned him at dinner, and that would do for an introduction. But I didn’t call to him, for he gave a sudden intimation that he was content to be alone—he stretched out his arms toward the dark water in a curious way, and, far as I was from him, I could have sworn he was trembling. Involuntarily I glanced seaward—and distinguished nothing except a single green light, minute and far away, that might have been the end of a dock. When I looked once more for Gatsby he had vanished, and I was alone again in the unquiet darkness.
+
+## Act Two
+
+*[TOM adjust the radio. Static plays. He and the other ACTORS, everyone except for NICK, put on gray coats with hoods. They begin puttin the books into boxes, carrying the boxes from one place to another. Stacking them. If they run out of work, they restack the boxes somwewhere else. This should evoke meanial work in some sort of dreary factory.]*
+
+**NICK (ACTOR ONE)**
+About halfway between West Egg and New York the motor road hastily joins the railroad and runs beside it for a quarter of a mile, so as to shrink away from a certain desolate area of land. This is a valley of ashes—a fantastic farm where ashes grow like wheat into ridges and hills and grotesque gardens; where ashes take the forms of houses and chimneys and rising smoke and, finally, with a transcendent effort, of ash-grey men, who move dimly and already crumbling through the powdery air. Occasionally a line of grey cars crawls along an invisible track, gives out a ghastly creak, and comes to rest, and immediately the ash-grey men swarm up with leaden spades and stir up an impenetrable cloud, which screens their obscure operations from your sight.
+
+But above the grey land and the spasms of bleak dust which drift endlessly over it, you perceive, after a moment, the eyes of Doctor T. J. Eckleburg. The eyes of Doctor T. J. Eckleburg are blue and gigantic—their retinas are one yard high. They look out of no face, but, instead, from a pair of enormous yellow spectacles which pass over a nonexistent nose. Evidently some wild wag of an oculist set them there to fatten his practice in the borough of Queens, and then sank down himself into eternal blindness, or forgot them and moved away. But his eyes, dimmed a little by many paintless days, under sun and rain, brood on over the solemn dumping ground.
+
+The valley of ashes is bounded on one side by a small foul river, and, when the drawbridge is up to let barges through, the passengers on waiting trains can stare at the dismal scene for as long as half an hour. There is always a halt there of at least a minute, and it was because of this that I first met Tom Buchanan’s mistress.
+
+The fact that he had one was insisted upon wherever he was known. His acquaintances resented the fact that he turned up in popular cafés with her and, leaving her at a table, sauntered about, chatting with whomsoever he knew. Though I was curious to see her, I had no desire to meet her—but I did. I went up to New York with Tom on the train one afternoon, and when we stopped by the ash-heaps he jumped to his feet and, taking hold of my elbow, literally forced me from the car.
+
+*[TRAIN WISTLE (ACTOR FIVE) makes a sound]*
+
+**TOM (ACTOR TWO)** *[He has removed his gray coat]*
+
+We’re getting off. 
+
+**NICK (ACTOR ONE)** 
+
+He insisted.
+
+**TOM (ACTOR TWO)**
+
+I want you to meet my girl.
+
+**NICK (ACTOR ONE** *[As TOM drags him by the arm.]*
+
+I think he’d tanked up a good deal at luncheon, and his determination to have my company bordered on violence. 
+
+*[Yanks his arm away]*
+
+The supercilious assumption was that on Sunday afternoon I had nothing better to do.
+
+*[Grudgingly follows]*
+
+I followed him over a low whitewashed railroad fence, and we walked back a hundred yards along the road under Doctor Eckleburg’s persistent stare. The only building in sight was a small block of yellow brick sitting on the edge of the waste land, a sort of compact Main Street ministering to it, and contiguous to absolutely nothing. One of the three shops it contained was for rent and another was an all-night restaurant, approached by a trail of ashes; the third was a garage—Repairs ...
+
+**WILSON (ACTOR SIX)** *[Pulling his hood down but still wearing his gray coat.*]
+
+George B. Wilson. Cars bought and sold.
+
+
+**NICK (ACTOR ONE)**
+
+... and I followed Tom inside.
+
+*[Wilson listlessly sweeps the floor of his shop.]*
+
+The interior was unprosperous and bare; the only car visible was the dust-covered wreck of a Ford which crouched in a dim corner. It had occurred to me that this shadow of a garage must be a blind, and that sumptuous and romantic apartments were concealed overhead, when the proprietor himself appeared in the door of an office, wiping his hands on a piece of waste. 
+
+**TOM (ACTOR TWO)**
+
+Hello, Wilson, old man. *[Slapping Wilson on the back, making him cough]* 
+
+**NICK (ACTOR ONE)**
+
+He was a blond, spiritless man, anaemic, and faintly handsome. 
+
+**TOM (ACTOR ONE)**
+
+How’s business?”
+
+**WILSON (ACTOR SIX)**
+
+I can’t complain...
+
+**NICK (ACTOR ONE)**
+
+... answered Wilson unconvincingly. 
+
+**WILSON (ACTOR SIX)**
+
+When are you going to sell me that car?
+
+**TOM (ACTOR TWO)**
+
+Next week; I’ve got my man working on it now.
+
+**WILSON (ACTOR SIX)**
+
+Works pretty slow, don’t he?
+
+**TOM (ACTOR TWO)**
+
+No, he doesn’t. And if you feel that way about it, maybe I’d better sell it somewhere else after all.
+
+**WILSON (ACTOR SIX)**
+
+I don’t mean that. I just meant—
+
+**NICK (ACTOR TWO)**
+
+*[As NICK speaks, MYRTLE (ACTOR THREE) removes her hood, takes out a compact, and applies tastely makeup. The remaining hooded actors take a cigarette break.]*
+
+Then I heard footsteps on a stairs, and in a moment the thickish figure of a woman blocked out the light from the office door. She was in the middle thirties, and faintly stout, but she carried her flesh sensuously as some women can. Her face, above a spotted dress of dark blue crêpe-de-chine, contained no facet or gleam of beauty, but there was an immediately perceptible vitality about her as if the nerves of her body were continually smouldering. She smiled slowly and, walking through her husband as if he were a ghost, shook hands with Tom, looking him flush in the eye. Then she wet her lips, and without turning around spoke to her husband in a soft, coarse voice:
+
+**MYRTLE (ACTOR THREE)**
+
+Get some chairs, why don’t you, so somebody can sit down.
+
+**WILSON (ACTOR SIX)**
+
+Oh, sure. 
+
+*[He moves boxes off of chairs and dusts them.]*
+
+**NICK (ACTOR ONE)**
+
+He went toward the little office, mingling immediately with the cement colour of the walls. A white ashen dust veiled his dark suit and his pale hair as it veiled everything in the vicinity—except his wife.
+
+**TOM (ACTOR TWO)**
+
+I want to see you. Get on the next train.
+
+**MYRTLE (ACTOR THREE)**
+
+All right.
+
+**TOM (ACTOR TWO)**
+
+I’ll meet you by the newsstand on the lower level.
+
+*[As MYRTLE, TOM, and NICK leave the shop, WILSON enters carrying two chairs. After a moment, he puts them down and sits in one dejectedly. MYRTLE removes her coat, steps into a tasteless skirt. She checks her hair. TOM drinks from a flask.]* 
+
+**NICK (ACTOR ONE)**
+
+We waited for her down the road and out of sight. It was a few days before the Fourth of July, and a grey, scrawny Italian child was setting torpedoes in a row along the railroad track. Tom exchanged frowns with Doctor Eckleburg.
+
+**TOM (ACTOR TWO)**
+
+Terrible place, isn’t it ...
+
+*[TOM hands the flask to NICK]*
+
+**NICK (ACTOR ONE)**
+
+Awful. *[Drinks]*
+
+**TOM (ACTOR TWO)**
+
+It does her good to get away.
+
+**NICK (ACTOR ONE)**
+
+Doesn’t her husband object?
+
+**TOM (ACTOR TWO)**
+
+Wilson? He thinks she goes to see her sister in New York. He’s so dumb he doesn’t know he’s alive.
+
+**CONDUCTOR (ACTOR FIVE)**
+
+All abord for Grand Central.
+
+*[WISLON, still seated, becomes a passenger in a train car. All the other ACTORS bring chairs and become passengers, MYRTLE sitting at the opposite end of the car from TOM and NICK]*/
+
+**NICK (ACTOR ONE)**
+
+So Tom Buchanan and his girl and I went up together to New York—or not quite together, for Mrs. Wilson sat discreetly in another car. Tom deferred that much to the sensibilities of those East Eggers who might be on the train.
+
+She had changed her dress to a brown figured muslin, which stretched tight over her rather wide hips as Tom helped her to the platform in New York. At the newsstand she bought a copy of Town Tattle and a moving-picture magazine, and in the station drugstore some cold cream and a small flask of perfume. 
+
+*[The ACTORS transform the six-car train into a taxicab with four seats. In the front sit MYRTLE and the DRIVER (ACTOR FIVE), and in the back sit TOM and NICK. ACTORS FOUR AND SIX move clear their chairs from the playing area, grab a couple of boxes, and become dog salesmen.]*
+
+Upstairs, in the solemn echoing drive she let four taxicabs drive away before she selected a new one, lavender-coloured with grey upholstery, and in this we slid out from the mass of the station into the glowing sunshine. But immediately she turned sharply from the window and, leaning forward, tapped on the front glass.
+
+**MYRTLE (ACTOR THREE)**
+
+I want to get one of those dogs ...
+
+**NICK (ACTOR ONE)**
+
+... she said earnestly. 
+
+**MYRTLE (ACTOR THREE)**
+
+I want to get one for the apartment. They’re nice to have—a dog.
+
+**NICK (ACTOR ONE)**
+
+We backed up to a couple of grey old men who bore an absurd resemblance to John D. Rockefeller. In a basket swung from his neck cowered a dozen very recent puppies of an indeterminate breed.
+
+**MYRTLE (ACTOR THREE)**
+
+What kind are they
+
+**DOG SALESMAN 1 (ACTOR SIX)**
+
+All kinds. 
+
+**DOG SALESMAN 2 (ACTOR FOUR)**
+
+Yeah. All kinds.
+
+**DOG SALESMAN 1 (ACTOR SIX)**
+
+What kind do you want, lady?
+
+**DOG SALESMAN 2 (ACTOR FOUR)**
+
+What kind do you want?
+
+**MYRTLE (ACTOR THREE)**
+
+I’d like to get one of those police dogs; I don’t suppose you got that kind?
+
+**NICK (ACTOR ONE)**
+
+The man peered doubtfully into the basket, 
+
+**DOG SALESMAN 1 (ACTOR SIX)**
+
+Ah! 
+
+*[He pulls a puppy from the box and holds it out, grinning.]*
+
+**TOM (ACTOR TWO)**
+
+That’s no police dog.
+
+**DOG SALESMAN 1 (ACTOR SIX)**
+
+“No, it’s not exactly a police dog. It’s more of an Airedale.
+
+**DOG SALESMAN 2 (ACTOR FOUR)**
+
+it's an Airdale.
+
+**DOG SALESMAN 1 (ACTOR SIX)**
+
+Look at that coat. 
+
+**DOG SALESMAN 2 (ACTOR FOUR)**
+
+Some coat. 
+
+**DOG SALESMAN 1 (ACTOR SIX)**
+
+That’s a dog that’ll never bother you with catching cold.
+
+**MYRTLE (ACTOR THREE)**
+
+I think it’s cute. How much is it?
+
+**DOG SALESMAN 1 (ACTOR SIX)**
+
+That dog?
+
+**DOG SALESMAN 2 (ACTOR FOUR)**
+
+That dog?
+
+**DOG SALESMAN 1 (ACTOR SIX)**
+
+That dog will cost you ten dollars.
+
+**NICK (ACTOR ONE)**
+
+The Airedale—undoubtedly there was an Airedale concerned in it somewhere, though its feet were startlingly white—changed hands and settled down into Mrs. Wilson’s lap, where she fondled the weatherproof coat with rapture.
+
+**MYRTLE (ACTOR THREE)**
+
+Is it a boy or a girl?”
+
+**DOG SALESMAN 2 (ACTOR FOUR)**
+
+That dog? 
+
+**DOG SALESMAN 1 (ACTOR SIX)**
+
+That dog’s a boy.
+
+**TOM (ACTOR TWO)**
+
+It’s a bitch. 
+
+**NICK (ACTOR ONE)**
+
+said Tom decisively.
+
+**TOM (ACTOR TWO)**
+
+Here’s your money. Go and buy ten more dogs with it.
+
+*[The DOG SALESMEN cross to the back of the stage, still trying to drum up costumers]*
+
+**NICK (ACTOR ONE)**
+
+We drove over to Fifth Avenue, warm and soft, almost pastoral, on the summer Sunday afternoon. I wouldn’t have been surprised to see a great flock of white sheep turn the corner.
+
+“Hold on,” I said, “I have to leave you here.”
+
+**TOM (ACTOR TWO)**
+
+No you don’t. Myrtle’ll be hurt if you don’t come up to the apartment. Won’t you, Myrtle?
+
+**MYRTLE (ACTOR THREE)**
+
+“Come on. I’ll telephone my sister Catherine. 
+
+**NICK (ACTOR ONE)**
+
+Well, I’d like to, but—
+
+**MYRTLE (ACTOR THREE)**
+
+She’s said to be very beautiful by people who ought to know.
+
+**NICK (ACTOR ONE)**
+
+We went on, cutting back again over the Park toward the West Hundreds. At 158th Street the cab stopped at one slice in a long white cake of apartment-houses. Throwing a regal homecoming glance around the neighbourhood, Mrs. Wilson gathered up her dog and her other purchases, and went haughtily in.
+
+*[They emerge from the cab]*
+
+**MYRTLE (ACTOR THREE)**
+
+I’m going to have the McKees come up
+
+**NICK (ACTOR ONE)**
+
+she announced as we rose in the elevator. 
+
+**MYRTLE (ACTOR THREE)**
+
+And, of course, I got to call up my sister, too.
+
+*[As NICK speaks, the rest of the actors create a small, cramped, messy apartment, full of liquor, and the ones not already in character become the party guests: CATHERINE (ACTOR FOUR), MR. MCKEE (ACTOR SIX), and MRS. MCKEE (ACTOR FIVE). They laugh, play music, and get up to all kinds of antics. The partying gradually gets more and more out of control, and NICK gets streadily drunker.]*
+
+**NICK (ACTOR ONE)**
+
+The apartment was on the top floor—a small living-room, a small dining-room, a small bedroom, and a bath. The living-room was crowded to the doors with a set of tapestried furniture entirely too large for it, so that to move about was to stumble continually over scenes of ladies swinging in the gardens of Versailles. The only picture was an over-enlarged photograph, apparently a hen sitting on a blurred rock. Looked at from a distance, however, the hen resolved itself into a bonnet, and the countenance of a stout old lady beamed down into the room. Several old copies of Town Tattle lay on the table together with a copy of Simon Called Peter, and some of the small scandal magazines of Broadway. Mrs. Wilson was first concerned with the dog. A reluctant elevator boy went for a box full of straw and some milk, to which he added on his own initiative a tin of large, hard dog biscuits—one of which decomposed apathetically in the saucer of milk all afternoon. Meanwhile Tom brought out a bottle of whisky from a locked bureau door.
+
+I have been drunk just twice in my life, and the second time was that afternoon; so everything that happened has a dim, hazy cast over it, although until after eight o’clock the apartment was full of cheerful sun. Sitting on Tom’s lap Mrs. Wilson called up several people on the telephone; then there were no cigarettes, and I went out to buy some at the drugstore on the corner. When I came back they had both disappeared, so I sat down discreetly in the living-room and read a chapter of Simon Called Peter—either it was terrible stuff or the whisky distorted things, because it didn’t make any sense to me.
+
+Just as Tom and Myrtle (after the first drink Mrs. Wilson and I called each other by our first names) reappeared, company commenced to arrive at the apartment door.
+
+The sister, Catherine, was a slender, worldly girl of about thirty, with a solid, sticky bob of red hair, and a complexion powdered milky white. Her eyebrows had been plucked and then drawn on again at a more rakish angle, but the efforts of nature toward the restoration of the old alignment gave a blurred air to her face. When she moved about there was an incessant clicking as innumerable pottery bracelets jingled up and down upon her arms. She came in with such a proprietary haste, and looked around so possessively at the furniture that I asked if she lived here. 
+
+**CATHERINE (ACTOR FOUR)**
+
+Do I live here? He wants to know do I live here? I live with a girlfriend at a hotel!
+
+**NICK (ACTOR ONE)**
+
+Mr. McKee was a pale, feminine man from the flat below. He had just shaved, for there was a white spot of lather on his cheekbone, and he was most respectful in his greeting to everyone in the room. He informed me that he was in the ...
+
+**MR. KCKEE (ACTOR SIX)**
+
+Artistic game.
+
+**NICK (ACTOR ONE)**
+
+...and I gathered later that he was a photographer and had made the dim enlargement of Mrs. Wilson’s mother which hovered like an ectoplasm on the wall. His wife was shrill, languid, handsome, and horrible. She told me with pride that ...
+
+**MRS. MCKEE (ACTOR FIVE)**
+
+My husband has photographed me a hundred and twenty-seven times!
+
+**NICK (ACTOR ONE)**
+
+Mrs. Wilson had changed her costume some time before, and was now attired in an elaborate afternoon dress of cream-coloured chiffon, which gave out a continual rustle as she swept about the room. With the influence of the dress her personality had also undergone a change. The intense vitality that had been so remarkable in the garage was converted into impressive hauteur. Her laughter, her gestures, her assertions became more violently affected moment by moment, and as she expanded the room grew smaller around her, until she seemed to be revolving on a noisy, creaking pivot through the smoky air.
+
+**MYRTLE (ACTOR THREE)**
+
+My dear ...
+
+**NICK (ACTOR ONE)**
+
+... she told her sister in a high, mincing shout ...
+
+**MYRTLE (ACTOR THREE)**
+
+... most of these fellas will cheat you every time. 
+
+**CATHERINE (ACTOR FOUR)**
+
+All they think of is money. 
+
+**MYRTLE (ACTOR THREE)**
+
+I had a woman up here last week to look at my feet, and when she gave me the bill you’d of thought she had my appendicitis out.
+
+**MRS. MCKEE (ACTOR FIVE)**
+
+What was the name of the woman?
+
+**MYRTLE (ACTOR THREE)**
+
+“Mrs. Eberhardt. She goes around looking at people’s feet in their own homes.
+
+**MRS. MCKEE (ACTOR FIVE)**
+
+I like your dress. I think it’s adorable.
+
+**MYRTLE (ACTOR THREE)**.
+
+This? It’s just a crazy old thing.  just slip it on sometimes when I don’t care what I look like.
+
+**MRS. MCKEE (ACTOR FIVE)**
+
+But it looks wonderful on you, if you know what I mean. If Chester could only get you in that pose I think he could make something of it.
+
+**MR. KCKEE (ACTOR SIX)**
+
+I should change the light. I’d like to bring out the modelling of the features. And I’d try to get hold of all the back hair.
+
+**MRS. MCKEE (ACTOR FIVE)**
+
+I wouldn’t think of changing the light. I think it’s—
+
+**MR. KCKEE (ACTOR SIX)**
+
+Sh! 
+
+*[MR. MCKEE frames MYRTLE with his hands. TOM YAWNS and stands up.]*
+
+**TOM (ACTOR TWO)**
+
+You McKees have something to drink. And get some more ice and mineral water, Myrtle, before everybody goes to sleep.
+
+**MYRTLE (ACTOR THREE)**.
+
+I told that boy about the ice. 
+
+**MR. MCKEE (ACTOR SIX)**
+
+I’ve done some nice things out on Long Island.
+
+**TOM (ACTOR TWO)**
+
+What things?
+
+**MR. MCKEE (ACTOR SIX)**
+
+Two of them we have framed downstairs.
+
+**TOM (ACTOR TWO)**
+
+“Two what?
+
+**MR. MCKEE (ACTOR SIX)**
+
+Two studies. One of them I call Montauk Point—The Gulls, and the other I call Montauk Point—The Sea.
+
+**CATHERINE (ACTOR FOUR)**
+
+Do you live down on Long Island, too?
+
+**NICK (ACTOR ONE)**
+
+I live at West Egg.
+
+**CATHERINE (ACTOR FOUR)**
+
+Really? I was down there at a party about a month ago. At a man named Gatsby’s. Do you know him?
+
+**NICK (ACTOR ONE)**
+
+“I live next door to him.”
+
+**CATHERINE (ACTOR FOUR)**
+
+Well, they say he’s a nephew or a cousin of Kaiser Wilhelm’s. 
+
+**MRS. MCKEE (ACTOR FIVE)**
+
+That’s where all his money comes from.
+
+**NICK (ACTOR ONE)**
+
+Really?
+
+**CATHERINE (ACTOR FOUR)**
+
+I’m scared of him. I’d hate to have him get anything on me.
+
+**MRS. MCKEE (ACTOR FIVE)**
+
+*[Of Catherine.]* Chester, I think you could do something with her!
+
+**MR. MCKEE (ACTOR SIX)**
+
+What I’d like to do is more work on Long Island, if I could get the entry. *[To Tom]* All I ask is that they should give me a start.
+
+**TOM (ACTOR TWO)**
+
+Ask Myrtle. She’ll give you a letter of introduction, won’t you, Myrtle?
+
+**MYRTLE (ACTOR THREE)**.
+
+Do what?
+
+**TOM (ACTOR TWO)**
+
+You’ll give McKee a letter of introduction to your husband, so he can do some studies of him.  ‘George B. Wilson at the Gasoline Pump,’ or something like that.”
+
+**CATHERINE (ACTOR FOUR)**
+
+Neither of them can stand the person they’re married to.
+
+**NICK (ACTOR ONE)**
+
+Can’t they?
+
+**CATHERINE (ACTOR FOUR)**
+
+Can’t stand them. And what I say is, why go on living with them if they can’t stand them? If I was them I’d get a divorce and get married to each other right away.”
+
+**NICK (ACTOR ONE)**
+
+Doesn’t she like Wilson either?
+
+**MYRTLE (ACTOR THREE)**
+
+Like him? Like him? *[Shouting]* I hate that fucking shitheel of a pansy! 
+
+[A pause.]
+
+**CATHERINE (ACTOR FOUR)**
+
+You see. t’s really his wife that’s keeping them apart. She’s a Catholic, and they don’t believe in divorce.
+
+**NICK (ACTOR ONE)**
+
+Daisy was not a Catholic, and I was a little shocked at the elaborateness of the lie.
+
+**CATHERINE (ACTOR FOUR)**
+
+When they do get married, they’re going West to live for a while until it blows over.
+
+**MRS. MCKEE (ACTOR FIVE)**
+
+It’d be more discreet to go to Europe.
+
+**CATHERINE (ACTOR FOUR)**
+
+Oh, do you like Europe? I just got back from Monte Carlo.
+
+**MRS. MCKEE (ACTOR FIVE)**
+
+Really?
+
+**CATHERINE (ACTOR FOUR)**
+
+Just last year. I went over there with another girl.
+
+**MRS. MCKEE (ACTOR FIVE)**
+
+Stay long?
+
+**CATHERINE (ACTOR FOUR)**
+
+No, we just went to Monte Carlo and back. We went by way of Marseilles. We had over twelve hundred dollars when we started, but we got gyped out of it all in two days in the private rooms. We had an awful time getting back, I can tell you. God, how I hated that town!
+
+**NICK (ACTOR ONE)**
+
+The late afternoon sky bloomed in the window for a moment like the blue honey of the Mediterranean—then ...
+
+**MRS. MCKEE (ACTOR FIVE)**
+
+I almost made a mistake, too. I almost married a little kike who’d been after me for years. I knew he was below me. Everybody kept saying to me: ‘Lucille, that man’s way below you!’ But if I hadn’t met Chester, he’d of got me sure.
+
+**MYRTLE (ACTOR THREE)**
+
+Yes, but listen. At least you didn’t marry him.
+
+**MRS. MCKEE (ACTOR FIVE)**
+
+I know I didn’t.
+
+**MYRTLE (ACTOR THREE)**
+
+Well, I married him. And that’s the difference between your case and mine.
+
+**CATHERINE (ACTOR FOUR)**
+
+Why did you, Myrtle? Nobody forced you to.
+
+**MYRTLE (ACTOR THREE)**
+
+I married him because I thought he was a gentleman. I thought he knew something about breeding, but he wasn’t fit to lick my shoe.
+
+**CATHERINE (ACTOR FOUR)**
+
+You were crazy about him for a while.
+
+**MYRTLE (ACTOR THREE)**
+
+Crazy about him! Who said I was crazy about him? I never was any more crazy about him than I was about that man there.
+
+*[She points at NICK. Everyone turns to look at him.]*
+
+**NICK (ACTOR ONE)**
+
+Um. *[At a loss, he flips through his book, trying to find something to say.]*
+
+**MYRTLE (ACTOR THREE)**
+
+The only crazy I was was when I married him. I knew right away I made a mistake. He borrowed somebody’s best suit to get married in, and never even told me about it, and the man came after it one day when he was out: ‘Oh, is that your suit?’ I said. ‘This is the first I ever heard about it.’ But I gave it to him and then I lay down and cried to beat the band all afternoon.
+
+**CATHERINE (ACTOR FOUR)**
+
+*[To NICK]* She really ought to get away from him. They’ve been living over that garage for eleven years. And Tom’s the first sweetie she ever had.
+
+**NICK (ACTOR ONE)**
+
+The bottle of whisky—a second one—was now in constant demand by all present, excepting Catherine, who ... 
+
+**CATHERINE (ACTOR FOUR)**
+
+... Feels just as good on nothing at all ...
+
+**NICK (ACTOR ONE)**
+
+Tom rang for the janitor and sent him for some celebrated sandwiches, which were a complete supper in themselves. I wanted to get out and walk eastward toward the park through the soft twilight, but each time I tried to go I became entangled in some wild, strident argument which pulled me back, as if with ropes, into my chair. Yet high over the city our line of yellow windows must have contributed their share of human secrecy to the casual watcher in the darkening streets, and I saw him too, looking up and wondering. I was within and without, simultaneously enchanted and repelled by the inexhaustible variety of life.
+
+Myrtle pulled her chair close to mine, and suddenly her warm breath poured over me the story of her first meeting with Tom.
+
+**MYRTLE (ACTOR THREE)***
+
+It was on the two little seats facing each other that are always the last ones left on the train. I was going up to New York to see my sister and spend the night. He had on a dress suit and patent leather shoes, and I couldn’t keep my eyes off him, but every time he looked at me I had to pretend to be looking at the advertisement over his head. When we came into the station he was next to me, and his white shirtfront pressed against my arm, and so I told him I’d have to call a policeman, but he knew I lied. I was so excited that when I got into a taxi with him I didn’t hardly know I wasn’t getting into a subway train. All I kept thinking about, over and over, was ‘You can’t live forever; you can’t live forever.’ 
+
+[To MRS. KCKEE] My dear! I’m going to give you this dress as soon as I’m through with it. I’ve got to get another one tomorrow. I’m going to make a list of all the things I’ve got to get. A massage and a wave, and a collar for the dog, and one of those cute little ashtrays where you touch a spring, and a wreath with a black silk bow for mother’s grave that’ll last all summer. I got to write down a list so I won’t forget all the things I got to do.”
+
+**NICK (ACTOR ONE)**
+
+It was nine o’clock—almost immediately afterward I looked at my watch and found it was ten. Mr. McKee was asleep on a chair with his fists clenched in his lap, like a photograph of a man of action. Taking out my handkerchief I wiped from his cheek the spot of dried lather that had worried me all the afternoon.
+
+The little dog was sitting on the table looking with blind eyes through the smoke, and from time to time groaning faintly. People disappeared, reappeared, made plans to go somewhere, and then lost each other, searched for each other, found each other a few feet away. Some time toward midnight Tom Buchanan and Mrs. Wilson stood face to face discussing, in impassioned voices, whether Mrs. Wilson had any right to mention Daisy’s name.
+
+***MYRTLE (ACTOR THREE)***
+
+Daisy! Daisy! Daisy! I’ll say it whenever I want to! Daisy! Dai—
+
+*[TOM hits her, hard]*
+
+**NICK (ACTOR ONE)**
+
+Then there were bloody towels upon the bathroom floor, and women’s voices scolding, and high over the confusion a long broken wail of pain. Mr. McKee awoke from his doze and started in a daze toward the door. When he had gone halfway he turned around and stared at the scene—his wife and Catherine scolding and consoling as they stumbled here and there among the crowded furniture with articles of aid, and the despairing figure on the couch, bleeding fluently, and trying to spread a copy of Town Tattle over the tapestry scenes of Versailles. Then Mr. McKee turned and continued on out the door. Taking my hat from the chandelier, I followed. As we groaned down in the elevator, he suggested ...
+
+**MR. MCKEE (ACTOR SIX)**
+
+Come to lunch some day
+
+**NICK (ACTOR ONE)**
+
+Where?
+
+**MR. MCKEE (ACTOR SIX)**
+
+Anywhere.
+
+**NICK (ACTOR ONE)**
+
+“Keep your hands off the lever,” snapped the elevator boy.
+
+**MR. MCKEE (ACTOR SIX)**
+
+I beg your pardon ...
+
+**NICK (ACTOR ONE)**
+
+... said Mr. McKee with dignity ...
+
+**MR. MCKEE (ACTOR SIX)**
+
+I didn’t know I was touching it. 
+
+**NICK (ACTOR ONE)**
+
+He thought for a moment.
+
+**MR. MCKEE (ACTOR SIX)**
+
+We can get two egg-salad sandwiches. And two malteds.
+
+**NICK (ACTOR ONE)**
+
+All right. I’ll be glad to.
+
+**MR. MCKEE (ACTOR SIX)**
+
+Pickles.
+
+**NICK (ACTOR ONE)**
+
+Then. I was standing beside his bed and he was sitting up between the sheets, clad in his underwear, with a great portfolio in his hands.
+
+**MR. MCKEE (ACTOR SIX)**
+
+Beauty and the Beast… Loneliness… Old Grocery Horse… Brook’n Bridge…
+
+**NICK (ACTOR ONE)**
+
+Then I was lying half asleep in the cold lower level of the Pennsylvania Station, staring at the morning Tribune, and waiting for the four o’clock train.
