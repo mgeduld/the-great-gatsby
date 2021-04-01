@@ -40,7 +40,7 @@ Most cast members play other characters and, at times, act as a chorus.
 
 **NICK (ACTOR ONE)**
 
-Chapter one.
+Chapter One.
 
 In my younger and more vulnerable years my father gave me some advice that I’ve been turning over in my mind ever since.
 
@@ -1096,6 +1096,8 @@ I decided to call to him. Miss Baker had mentioned him at dinner, and that would
 *[TOM adjust the radio. Static plays. He and the other ACTORS, everyone except for NICK, put on gray coats with hoods. They begin puttin the books into boxes, carrying the boxes from one place to another. Stacking them. If they run out of work, they restack the boxes somwewhere else. This should evoke meanial work in some sort of dreary factory.]*
 
 **NICK (ACTOR ONE)**
+Chapter Two.
+
 About halfway between West Egg and New York the motor road hastily joins the railroad and runs beside it for a quarter of a mile, so as to shrink away from a certain desolate area of land. This is a valley of ashes—a fantastic farm where ashes grow like wheat into ridges and hills and grotesque gardens; where ashes take the forms of houses and chimneys and rising smoke and, finally, with a transcendent effort, of ash-grey men, who move dimly and already crumbling through the powdery air. Occasionally a line of grey cars crawls along an invisible track, gives out a ghastly creak, and comes to rest, and immediately the ash-grey men swarm up with leaden spades and stir up an impenetrable cloud, which screens their obscure operations from your sight.
 
 But above the grey land and the spasms of bleak dust which drift endlessly over it, you perceive, after a moment, the eyes of Doctor T. J. Eckleburg. The eyes of Doctor T. J. Eckleburg are blue and gigantic—their retinas are one yard high. They look out of no face, but, instead, from a pair of enormous yellow spectacles which pass over a nonexistent nose. Evidently some wild wag of an oculist set them there to fatten his practice in the borough of Queens, and then sank down himself into eternal blindness, or forgot them and moved away. But his eyes, dimmed a little by many paintless days, under sun and rain, brood on over the solemn dumping ground.
@@ -1425,7 +1427,13 @@ And, of course, I got to call up my sister, too.
 
 The apartment was on the top floor—a small living-room, a small dining-room, a small bedroom, and a bath. The living-room was crowded to the doors with a set of tapestried furniture entirely too large for it, so that to move about was to stumble continually over scenes of ladies swinging in the gardens of Versailles. The only picture was an over-enlarged photograph, apparently a hen sitting on a blurred rock. Looked at from a distance, however, the hen resolved itself into a bonnet, and the countenance of a stout old lady beamed down into the room. Several old copies of Town Tattle lay on the table together with a copy of Simon Called Peter, and some of the small scandal magazines of Broadway. Mrs. Wilson was first concerned with the dog. A reluctant elevator boy went for a box full of straw and some milk, to which he added on his own initiative a tin of large, hard dog biscuits—one of which decomposed apathetically in the saucer of milk all afternoon. Meanwhile Tom brought out a bottle of whisky from a locked bureau door.
 
-I have been drunk just twice in my life, and the second time was that afternoon; so everything that happened has a dim, hazy cast over it, although until after eight o’clock the apartment was full of cheerful sun. Sitting on Tom’s lap Mrs. Wilson called up several people on the telephone; then there were no cigarettes, and I went out to buy some at the drugstore on the corner. When I came back they had both disappeared, so I sat down discreetly in the living-room and read a chapter of Simon Called Peter—either it was terrible stuff or the whisky distorted things, because it didn’t make any sense to me.
+*[Nick drinks. Wipes his mouth]*
+
+I have been drunk just twice in my life, and the second time was that afternoon; so everything that happened has a dim, hazy cast over it, although until after eight o’clock the apartment was full of cheerful sun. Sitting on Tom’s lap Mrs. Wilson called up several people on the telephone; then there were no cigarettes, and I went out to buy some at the drugstore on the corner. 
+
+*[Finds TOM's flash in his pocket. Downs the contents.]*
+
+When I came back they had both disappeared, so I sat down discreetly in the living-room and read a chapter of Simon Called Peter—either it was terrible stuff or the whisky distorted things, because it didn’t make any sense to me.
 
 Just as Tom and Myrtle (after the first drink Mrs. Wilson and I called each other by our first names) reappeared, company commenced to arrive at the apartment door.
 
@@ -1481,7 +1489,7 @@ What was the name of the woman?
 
 **MYRTLE (ACTOR THREE)**
 
-“Mrs. Eberhardt. She goes around looking at people’s feet in their own homes.
+Mrs. Eberhardt. She goes around looking at people’s feet in their own homes.
 
 **MRS. MCKEE (ACTOR FIVE)**
 
@@ -1507,19 +1515,51 @@ I wouldn’t think of changing the light. I think it’s—
 
 Sh! 
 
-*[MR. MCKEE frames MYRTLE with his hands. TOM YAWNS and stands up.]*
+*[MR. MCKEE frames MYRTLE with his hands. TOM yawns and stands up.]*
 
 **TOM (ACTOR TWO)**
 
 You McKees have something to drink. And get some more ice and mineral water, Myrtle, before everybody goes to sleep.
 
-**MYRTLE (ACTOR THREE)**.
+**MYRTLE (ACTOR THREE)**
 
 I told that boy about the ice. 
 
+*[Everybody drinks. TOM puts on music. He and MYRTLE dance]*
+
+**NICK (ACTOR ONE)**
+
+*[Shouting over the music]* 
+
+Mrs. Wilson looked at me and laugted pointlessly. Then she flounced over to the dog, kissed it with ecstacy, and --
+
+*[Catherine snatches the book out of Nick's hand. She tosses it to MRS. MCKEE who tosses it to TOM. TOM gives it to DAISY who hides it.]* 
+
+Wait. Wait. Wait! No.
+
+*[As NICK is shouting, the others all laugh and yell out teases. speaking at the same time.]
+
+**CATHERINE (ACTOR FOUR)**
+
+Whoop!
+
+**MRS. KCKEE (ACTOR FOUR)**
+
+You don't need this!
+
+**TOM (ACTOR TWO)**
+
+Give it a rest.
+
+**MYRTLE (ACTOR THREE)**
+
+Bye bye book.
+
+*[NICK covers his face with his hands. Catherine grabs his hands away and kisses him. She climbs on top of him, making out with him in a sloppy way, getting lipstick all over his face.]*
+
 **MR. MCKEE (ACTOR SIX)**
 
-I’ve done some nice things out on Long Island.
+*[Shouting to TOM]* I’ve done some nice things out on Long Island.
 
 **TOM (ACTOR TWO)**
 
@@ -1529,9 +1569,11 @@ What things?
 
 Two of them we have framed downstairs.
 
-**TOM (ACTOR TWO)**
+**TOM (ACTOR TWO)** 
 
-“Two what?
+*[He stops dancing]*
+
+Two what?
 
 **MR. MCKEE (ACTOR SIX)**
 
@@ -1539,11 +1581,11 @@ Two studies. One of them I call Montauk Point—The Gulls, and the other I call 
 
 **CATHERINE (ACTOR FOUR)**
 
-Do you live down on Long Island, too?
+*[Breaks off her assault on NICK and interrogates him]* Do you live down on Long Island, too?
 
 **NICK (ACTOR ONE)**
 
-I live at West Egg.
+*[Looks for his book. Gives up. Improvises*] I live at ... East ... No! ... West Egg.
 
 **CATHERINE (ACTOR FOUR)**
 
@@ -1551,7 +1593,7 @@ Really? I was down there at a party about a month ago. At a man named Gatsby’s
 
 **NICK (ACTOR ONE)**
 
-“I live next door to him.”
+I ...I live next door to him.
 
 **CATHERINE (ACTOR FOUR)**
 
@@ -1568,6 +1610,8 @@ Really?
 **CATHERINE (ACTOR FOUR)**
 
 I’m scared of him. I’d hate to have him get anything on me.
+
+*[Nick starts hunting for the book]*
 
 **MRS. MCKEE (ACTOR FIVE)**
 
@@ -1587,7 +1631,7 @@ Do what?
 
 **TOM (ACTOR TWO)**
 
-You’ll give McKee a letter of introduction to your husband, so he can do some studies of him.  ‘George B. Wilson at the Gasoline Pump,’ or something like that.”
+You’ll give McKee a letter of introduction to your husband, so he can do some studies of him.  ‘George B. Wilson at the Gasoline Pump,’ or something like that.
 
 **CATHERINE (ACTOR FOUR)**
 
@@ -1596,6 +1640,8 @@ Neither of them can stand the person they’re married to.
 **NICK (ACTOR ONE)**
 
 Can’t they?
+
+*[Nick finds the book. He thumbs through it, looking for his page.]
 
 **CATHERINE (ACTOR FOUR)**
 
@@ -1617,7 +1663,7 @@ You see. t’s really his wife that’s keeping them apart. She’s a Catholic, 
 
 **NICK (ACTOR ONE)**
 
-Daisy was not a Catholic, and I was a little shocked at the elaborateness of the lie.
+*[Reading from the book again.]* Daisy was not a Catholic, and I was a little shocked at the elaborateness of the lie.
 
 **CATHERINE (ACTOR FOUR)**
 
