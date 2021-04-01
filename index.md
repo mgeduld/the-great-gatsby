@@ -1757,7 +1757,7 @@ Tom rang for the janitor and sent him for some celebrated sandwiches, which were
 
 Myrtle pulled her chair close to mine, and suddenly her warm breath poured over me the story of her first meeting with Tom.
 
-**MYRTLE (ACTOR THREE)***
+**MYRTLE (ACTOR THREE)**
 
 It was on the two little seats facing each other that are always the last ones left on the train. I was going up to New York to see my sister and spend the night. He had on a dress suit and patent leather shoes, and I couldn’t keep my eyes off him, but every time he looked at me I had to pretend to be looking at the advertisement over his head. When we came into the station he was next to me, and his white shirtfront pressed against my arm, and so I told him I’d have to call a policeman, but he knew I lied. I was so excited that when I got into a taxi with him I didn’t hardly know I wasn’t getting into a subway train. All I kept thinking about, over and over, was ‘You can’t live forever; you can’t live forever.’ 
 
