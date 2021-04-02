@@ -1769,7 +1769,7 @@ It was nine o’clock—almost immediately afterward I looked at my watch and fo
 
 The little dog was sitting on the table looking with blind eyes through the smoke, and from time to time groaning faintly. People disappeared, reappeared, made plans to go somewhere, and then lost each other, searched for each other, found each other a few feet away. Some time toward midnight Tom Buchanan and Mrs. Wilson stood face to face discussing, in impassioned voices, whether Mrs. Wilson had any right to mention Daisy’s name.
 
-***MYRTLE (ACTOR THREE)***
+**MYRTLE (ACTOR THREE)**
 
 Daisy! Daisy! Daisy! I’ll say it whenever I want to! Daisy! Dai—
 
@@ -2364,7 +2364,7 @@ She had a fight with a man who says he’s her husband.
 
 I looked around. Most of the remaining women were now having fights with men said to be their husbands. Even Jordan’s party, the quartet from East Egg, were rent asunder by dissension. One of the men was talking with curious intensity to a young actress, and his wife, after attempting to laugh at the situation in a dignified and indifferent way, broke down entirely and resorted to flank attacks—at intervals she appeared suddenly at his side like an angry diamond, and hissed ... 
 
-**ANGRY WIFE (ACTOR THREE)***
+**ANGRY WIFE (ACTOR THREE)**
 
 *[Turning to face front.]*
 
@@ -2376,23 +2376,23 @@ You promised!
 
 The reluctance to go home was not confined to wayward men. The hall was at present occupied by two deplorably sober men and their highly indignant wives. The wives were sympathizing with each other in slightly raised voices.
 
-**INDIGNANT WIFE 1 (ACTOR TWO)***
+**INDIGNANT WIFE 1 (ACTOR TWO)**
 
 *[Turning to face front.]*
 
 Whenever he sees I’m having a good time he wants to go home.
 
-**INDIGNANT WIFE 2 (ACTOR SIX)***
+**INDIGNANT WIFE 2 (ACTOR SIX)**
 
 *[Turning to face front.]*
 
 Never heard anything so selfish in my life.
 
-**INDIGNANT WIFE 1 (ACTOR TWO)***
+**INDIGNANT WIFE 1 (ACTOR TWO)**
 
 We’re always the first ones to leave.
 
-**INDIGNANT WIFE 2 (ACTOR SIX)***
+**INDIGNANT WIFE 2 (ACTOR SIX)**
 
 So are we.
 
@@ -2462,7 +2462,7 @@ Then the butler, behind his shoulder, said, “Philadelphia wants you on the pho
 
 All right, in a minute. Tell them I’ll be right there… Good night.
 
-**NICK (ACTOR ONE)***
+**NICK (ACTOR ONE)**
 
 Good night.
 
