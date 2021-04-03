@@ -2663,3 +2663,836 @@ But I am slow-thinking and full of interior rules that act as brakes on my desir
 *[Not read from the book.]*
 
 Everyone suspects himself of at least one of the cardinal virtues, and this is mine: I am one of the few honest people that I have ever known.
+
+## Act Four
+
+**NICK (ACTOR ONE)**
+
+Chapter Four.
+
+On Sunday morning while church bells rang in the villages alongshore, the world and its mistress returned to Gatsby’s house and twinkled hilariously on his lawn.
+
+**YOUNG LADIES (ACTOR TWO AND ACTOR SIX)**
+
+*[Speaking from the edges of the stage.]*
+
+He’s a bootlegger 
+
+**NICK (ACTOR ONE)**
+
+said the young ladies, moving somewhere between his cocktails and his flowers. 
+
+**YOUNG LADY (ACTOR TWO)**
+
+One time he killed a man who had found out that he was nephew to Von Hindenburg and second cousin to the devil. Reach me a rose, honey, and pour me a last drop into that there crystal glass.
+
+**NICK (ACTOR ONE)**
+
+Once I wrote down on the empty spaces of a timetable the names of those who came to Gatsby’s house that summer. It is an old timetable now, disintegrating at its folds, and headed 
+
+**HEADING (ACTOR THREE)**
+
+This schedule in effect July 5th, 1922.
+
+**NICK (ACTOR ONE)**
+
+But I can still read the grey names, and they will give you a better impression than my generalities of those who accepted Gatsby’s hospitality and paid him the subtle tribute of knowing nothing whatever about him.
+
+*[The ACRTORS rush towqrds NICK  and sit on the floor in front of him, like schoolchildren eager for a lesson. GATSBY could be one of them or he could stay upstage. The following could all be delievered by NICK or the other actors could turn their heads and speak some list items to the audience.]*
+
+From East Egg, then, came the Chester Beckers and the Leeches, and a man named Bunsen, whom I knew at Yale, and Doctor Webster Civet, who was drowned last summer up in Maine. And the Hornbeams and the Willie Voltaires, and a whole clan named Blackbuck, who always gathered in a corner and flipped up their noses like goats at whosoever came near. And the Ismays and the Chrysties (or rather Hubert Auerbach and Mr. Chrystie’s wife), and Edgar Beaver, whose hair, they say, turned cotton-white one winter afternoon for no good reason at all.
+
+Clarence Endive was from East Egg, as I remember. He came only once, in white knickerbockers, and had a fight with a bum named Etty in the garden. From farther out on the Island came the Cheadles and the O. R. P. Schraeders, and the Stonewall Jackson Abrams of Georgia, and the Fishguards and the Ripley Snells. Snell was there three days before he went to the penitentiary, so drunk out on the gravel drive that Mrs. Ulysses Swett’s automobile ran over his right hand. The Dancies came, too, and S. B. Whitebait, who was well over sixty, and Maurice A. Flink, and the Hammerheads, and Beluga the tobacco importer, and Beluga’s girls.
+
+From West Egg came the Poles and the Mulreadys and Cecil Roebuck and Cecil Schoen and Gulick the State senator and Newton Orchid, who controlled Films Par Excellence, and Eckhaust and Clyde Cohen and Don S. Schwartz (the son) and Arthur McCarty, all connected with the movies in one way or another. And the Catlips and the Bembergs and G. Earl Muldoon, brother to that Muldoon who afterward strangled his wife. Da Fontano the promoter came there, and Ed Legros and James B. (“Rot-Gut”) Ferret and the De Jongs and Ernest Lilly—they came to gamble, and when Ferret wandered into the garden it meant he was cleaned out and Associated Traction would have to fluctuate profitably next day.
+
+A man named Klipspringer was there so often that he became known as “the boarder”—I doubt if he had any other home. Of theatrical people there were Gus Waize and Horace O’Donavan and Lester Myer and George Duckweed and Francis Bull. Also from New York were the Chromes and the Backhyssons and the Dennickers and Russel Betty and the Corrigans and the Kellehers and the Dewars and the Scullys and S. W. Belcher and the Smirkes and the young Quinns, divorced now, and Henry L. Palmetto, who killed himself by jumping in front of a subway train in Times Square.
+
+Benny McClenahan arrived always with four girls. They were never quite the same ones in physical person, but they were so identical one with another that it inevitably seemed they had been there before. I have forgotten their names—Jaqueline, I think, or else Consuela, or Gloria or Judy or June, and their last names were either the melodious names of flowers and months or the sterner ones of the great American capitalists whose cousins, if pressed, they would confess themselves to be.
+
+In addition to all these I can remember that Faustina O’Brien came there at least once and the Baedeker girls and young Brewer, who had his nose shot off in the war, and Mr. Albrucksburger and Miss Haag, his fiancée, and Ardita Fitz-Peters and Mr. P. Jewett, once head of the American Legion, and Miss Claudia Hip, with a man reputed to be her chauffeur, and a prince of something, whom we called Duke, and whose name, if I ever knew it, I have forgotten.
+
+All these people came to Gatsby’s house in the summer.
+
+*[Exhausted from speaking or listening, the "children" pass out on the floor.]*
+
+At nine o’clock, one morning late in July, Gatsby’s gorgeous car lurched up the rocky drive to my door and gave out a burst of melody from its three-noted horn.
+
+**HORN (ACTOR FOUR)**
+
+Beep beep beep beep beep
+
+*[If GATSBY is one of the children, he walks upstage, resuming his role as GATSBY. Or, if he's already upstage, he turns to face NICK,]*
+
+**NICK (ACTOR ONE)**
+
+It was the first time he had called on me, though I had gone to two of his parties, mounted in his hydroplane, and, at his urgent invitation, made frequent use of his beach.
+
+**GATSBY (ACTOR FIVE)**
+
+Good morning, old sport. You’re having lunch with me today and I thought we’d ride up together.
+
+**NICK (ACTOR ONE)**
+
+He was balancing himself on the dashboard of his car with that resourcefulness of movement that is so peculiarly American—that comes, I suppose, with the absence of lifting work in youth and, even more, with the formless grace of our nervous, sporadic games. This quality was continually breaking through his punctilious manner in the shape of restlessness. He was never quite still; there was always a tapping foot somewhere or the impatient opening and closing of a hand.
+
+*[NICK crosses to stand by GATSBY]*
+
+He saw me looking with admiration at his car.
+
+**GATSBY (ACTOR FIVE)**
+
+It’s pretty, isn’t it, old sport? Haven’t you ever seen it before?
+
+**NICK (ACTOR ONE)**
+
+*[Walks around the car, indicating details as he speaks.]*
+
+I’d seen it. Everybody had seen it. It was a rich cream colour, bright with nickel, swollen here and there in its monstrous length with triumphant hatboxes and supper-boxes and toolboxes, and terraced with a labyrinth of windshields that mirrored a dozen suns. Sitting down behind many layers of glass in a sort of green leather conservatory, we started to town.
+
+*[The stand next to each ther. GATSBY mimes a steering wheel.]*
+
+I had talked with him perhaps half a dozen times in the past month and found, to my disappointment, that he had little to say. So my first impression, that he was a person of some undefined consequence, had gradually faded and he had become simply the proprietor of an elaborate roadhouse next door.
+
+And then came that disconcerting ride. We hadn’t reached West Egg village before Gatsby began leaving his elegant sentences unfinished and slapping himself indecisively on the knee of his caramel-coloured suit.
+
+**GATSBY (ACTOR FIVE)**
+
+Look here, old sport ... What’s your opinion of me, anyhow?
+
+**NICK (ACTOR ONE)**
+
+A little overwhelmed, I began the generalized evasions which that question deserves.
+
+**GATSBY (ACTOR FIVE)**
+
+Well, I’m going to tell you something about my life ...
+
+**NICK (ACTOR ONE)**
+
+... he interrupted. 
+
+**GATSBY (ACTOR FIVE)**
+
+I don’t want you to get a wrong idea of me from all these stories you hear.
+
+**NICK (ACTOR ONE)**
+
+So he was aware of the bizarre accusations that flavoured conversation in his halls.
+
+**GATSBY (ACTOR FIVE)**
+
+I’ll tell you God’s truth.
+
+**NICK (ACTOR ONE)**
+
+His right hand suddenly ordered divine retribution to stand by. 
+
+**GATSBY (ACTOR FIVE)**
+
+I am the son of some wealthy people in the Middle West—all dead now. I was brought up in America but educated at Oxford, because all my ancestors have been educated there for many years. It is a family tradition.
+
+**NICK (ACTOR ONE)**
+
+He looked at me sideways—and I knew why Jordan Baker had believed he was lying. He hurried the phrase 
+
+**GATSBY (ACTOR FIVE)**
+
+"educated at Oxford,” 
+
+**NICK (ACTOR ONE)**
+
+or swallowed it, or choked on it, as though it had bothered him before. And with this doubt, his whole statement fell to pieces, and I wondered if there wasn’t something a little sinister about him, after all.
+
+**GATSBY (ACTOR FIVE)**
+
+"Educated at Oxford."
+
+**NICK (ACTOR ONE)**
+
+What part of the Middle West?
+
+**GATSBY (ACTOR FIVE)**
+
+San Francisco
+
+**NICK (ACTOR ONE)**
+
+I see.
+
+**GATSBY (ACTOR FIVE)**
+
+My family all died and I came into a good deal of money.
+
+**NICK (ACTOR ONE)**
+
+His voice was solemn, as if the memory of that sudden extinction of a clan still haunted him. For a moment I suspected that he was pulling my leg, but a glance at him convinced me otherwise.
+
+**GATSBY (ACTOR FIVE)**
+
+After that I lived like a young rajah in all the capitals of Europe—Paris, Venice, Rome—collecting jewels, chiefly rubies, hunting big game, painting a little, things for myself only, and trying to forget something very sad that had happened to me long ago.
+
+**NICK (ACTOR ONE)**
+
+With an effort I managed to restrain my incredulous laughter. The very phrases were worn so threadbare that they evoked no image except that of a turbaned “character” leaking sawdust at every pore as he pursued a tiger through the Bois de Boulogne.
+
+**GATSBY (ACTOR FIVE)**
+
+Then came the war, old sport. It was a great relief, and I tried very hard to die, but I seemed to bear an enchanted life. I accepted a commission as first lieutenant when it began. In the Argonne Forest I took the remains of my machine-gun battalion so far forward that there was a half mile gap on either side of us where the infantry couldn’t advance. We stayed there two days and two nights, a hundred and thirty men with sixteen Lewis guns, and when the infantry came up at last they found the insignia of three German divisions among the piles of dead. I was promoted to be a major, and every Allied government gave me a decoration—even Montenegro, little Montenegro down on the Adriatic Sea!
+
+**NICK (ACTOR ONE)**
+
+Little Montenegro! He lifted up the words and nodded at them—with his smile. 
+
+*[NICK leaves the realty of the car and walks downstage towards the audience.]*
+
+The smile comprehended Montenegro’s troubled history and sympathized with the brave struggles of the Montenegrin people. It appreciated fully the chain of national circumstances which had elicited this tribute from Montenegro’s warm little heart. My incredulity was submerged in fascination now; it was like skimming hastily through a dozen magazines.
+
+**GATSBY (ACTOR FIVE)**
+
+*[Still in the car, holding something out for NICK to see.]*
+
+That’s the one from Montenegro.
+
+**NICK (ACTOR ONE)**
+
+To my astonishment, the medal had an authentic look. “Orderi di Danilo,” ran the circular legend, “Montenegro, Nicolas Rex.”
+
+**GATSBY (ACTOR FIVE)**
+
+Turn it.
+
+**NICK (ACTOR ONE)**
+
+"Major Jay Gatsby. For Valour Extraordinary.”
+
+**GATSBY (ACTOR FIVE)**
+
+Here’s another thing I always carry. A souvenir of Oxford days. It was taken in Trinity Quad—the man on my left is now the Earl of Doncaster.
+
+*[NICK crosses back into the car.]*
+
+It was a photograph of half a dozen young men in blazers loafing in an archway through which were visible a host of spires. There was Gatsby, looking a little, not much, younger—with a cricket bat in his hand.
+
+Then it was all true. I saw the skins of tigers flaming in his palace on the Grand Canal; I saw him opening a chest of rubies to ease, with their crimson-lighted depths, the gnawings of his broken heart.
+
+**GATSBY (ACTOR FIVE)**
+
+I’m going to make a big request of you today. So I thought you ought to know something about me. I didn’t want you to think I was just some nobody. You see, I usually find myself among strangers because I drift here and there trying to forget the sad things that happened to me 
+
+**NICK (ACTOR ONE)**
+
+He hesitated.
+
+**GATSBY (ACTOR FIVE)**
+
+You’ll hear about it this afternoon.
+
+**NICK (ACTOR ONE)**
+
+At lunch?
+
+**GATSBY (ACTOR FIVE)**
+
+No, this afternoon. I happened to find out that you’re taking Miss Baker to tea.
+
+**NICK (ACTOR ONE)**
+
+Do you mean you’re in love with Miss Baker?
+
+**GATSBY (ACTOR FIVE)**
+
+No, old sport, I’m not. But Miss Baker has kindly consented to speak to you about this matter.
+
+**NICK (ACTOR ONE)**
+
+*[Leaving the car again.]*
+
+I hadn’t the faintest idea what “this matter” was, but I was more annoyed than interested. I hadn’t asked Jordan to tea in order to discuss Mr. Jay Gatsby. I was sure the request would be something utterly fantastic, and for a moment I was sorry I’d ever set foot upon his overpopulated lawn.
+
+*[Back to the car.]*
+
+He wouldn’t say another word. His correctness grew on him as we neared the city. We passed Port Roosevelt, where there was a glimpse of red-belted oceangoing ships, and sped along a cobbled slum lined with the dark, undeserted saloons of the faded-gilt nineteen-hundreds. Then the valley of ashes opened out on both sides of us, and I had a glimpse of Mrs. Wilson straining at the garage pump with panting vitality as we went by.
+
+With fenders spread like wings we scattered light through half Astoria—only half, for as we twisted among the pillars of the elevated I heard the familiar ... 
+
+**MOTORCYCLE (ACTOR THREE) **
+
+jug-jug-spat! 
+
+**NICK (ACTOR ONE)**
+
+... of a motorcycle, and a frantic policeman rode alongside.
+
+**GATSBY (ACTOR FIVE)**
+
+All right, old sport ...
+
+**NICK (ACTOR ONE)**
+
+... called Gatsby. We slowed down. Taking a white card from his wallet, he waved it before the man’s eyes.
+
+**POLICEMAN (ACTOR SIX)**
+
+Right you are ...
+
+**NICK (ACTOR ONE)**
+
+... agreed the policeman, tipping his cap. 
+
+**POLICEMAN (ACTOR SIX)**
+
+Know you next time, Mr. Gatsby. Excuse me!
+
+**NICK (ACTOR ONE)**
+
+What was that? The picture of Oxford?
+
+**GATSBY (ACTOR FIVE)**
+
+I was able to do the commissioner a favour once, and he sends me a Christmas card every year.
+
+**NICK (ACTOR ONE)**
+
+*[After the lines, above, the MOTORCYCLE and POLICEMAN move upstage and set up the restaurant for the next sequence. When the POLICEMAN does this, the other actors--except for NICK and GATSBY--do it, too, eventually becoming waiters, customers, etc.]*
+
+Over the great bridge, with the sunlight through the girders making a constant flicker upon the moving cars, with the city rising up across the river in white heaps and sugar lumps all built with a wish out of nonolfactory money. The city seen from the Queensboro Bridge is always the city seen for the first time, in its first wild promise of all the mystery and the beauty in the world.
+
+A dead man passed us in a hearse heaped with blooms, followed by two carriages with drawn blinds, and by more cheerful carriages for friends. The friends looked out at us with the tragic eyes and short upper lips of southeastern Europe, and I was glad that the sight of Gatsby’s splendid car was included in their sombre holiday. As we crossed Blackwell’s Island a limousine passed us, driven by a white chauffeur, in which sat three modish negroes, two bucks and a girl. I laughed aloud as the yolks of their eyeballs rolled toward us in haughty rivalry.
+
+“Anything can happen now that we’ve slid over this bridge,” I thought; “anything at all…”
+
+Even Gatsby could happen, without any particular wonder.
+
+**WAITER (ACTOR THREE)**
+
+*[To a customer.] *May I take your hat, sir?
+
+**NICK (ACTOR ONE)**
+
+Roaring noon. In a well-fanned Forty-second Street cellar I met Gatsby for lunch. Blinking away the brightness of the street outside, my eyes picked him out obscurely in the anteroom.
+
+**GATSBY (ACTOR FIVE)**
+
+*[Now in the restaurant, as is NICK.]*
+
+Mr. Carraway, this is my friend Mr. Wolfshiem.
+
+**NICK (ACTOR ONE)**
+
+A small, flat-nosed Jew raised his large head and regarded me with two fine growths of hair which luxuriated in either nostril. After a moment I discovered his tiny eyes in the half-darkness.
+
+**WOLFSHIME (ACTOR SIX)**
+
+*[Shaking hands with NICK.]*
+
+—So I took one look at him, and what do you think I did?
+
+**NICK (ACTOR ONE)**
+
+"What?" I inquired politely.
+
+But evidently he was not addressing me, for he dropped my hand and covered Gatsby with his expressive nose.
+
+**WOLFSHIME (ACTOR SIX)**
+
+I handed the money to Katspaugh and I said: ‘All right, Katspaugh, don’t pay him a penny till he shuts his mouth.’ He shut it then and there.
+
+**WAITER (ACTOR THREE)**
+
+Highballs? 
+
+**GATSBY (ACTOR FIVE)**
+
+This is a nice restaurant here ... 
+
+**NICK (ACTOR ONE)**
+
+... said Mr. Wolfshiem, looking at the presbyterian nymphs on the ceiling ...
+
+**WOLFSHIME (ACTOR SIX)**
+
+... But I like across the street better!”
+
+**GATSBY (ACTOR FIVE)**
+
+Yes, highballs ...
+
+**NICK (ACTOR ONE)**
+
+... agreed Gatsby, and then to Mr. Wolfshiem ...
+
+**GATSBY (ACTOR FIVE)**
+
+It’s too hot over there.
+
+**WOLFSHIME (ACTOR SIX)**
+
+Hot and small—yes. But full of memories.
+
+**NICK (ACTOR ONE)**
+
+What place is that?
+
+**GATSBY (ACTOR FIVE)**
+
+The old Metropole.
+
+**WOLFSHIME (ACTOR SIX)**
+
+Yes, the old Metropole. Filled with faces dead and gone. Filled with friends gone now forever. I can’t forget so long as I live the night they shot Rosy Rosenthal there. It was six of us at the table, and Rosy had eat and drunk a lot all evening. When it was almost morning the waiter came up to him with a funny look and says somebody wants to speak to him outside. "All right," says Rosy, and begins to get up, and I pulled him down in his chair.
+
+“ Let the bastards come in here if they want you, Rosy, but don’t you, so help me, move outside this room."
+
+It was four o’clock in the morning then, and if we’d of raised the blinds we’d of seen daylight.
+
+**NICK (ACTOR ONE)**
+
+Did he go?
+
+**WOLFSHIME (ACTOR SIX)**
+
+Sure he went. He turned around in the door and says: "Don’t let that waiter take away my coffee!" Then he went out on the sidewalk, and they shot him three times in his full belly and drove away.
+
+**NICK (ACTOR ONE)**
+
+"Four of them were electrocuted,” I said, remembering.
+
+**WOLFSHIME (ACTOR SIX)**
+
+Five, with Becker. *[A pause.]* I understand you’re looking for a business gonnegtion.
+
+**NICK (ACTOR ONE)**
+
+The juxtaposition of these two remarks was startling. 
+
+**GATSBY (ACTOR FIVE)**
+
+Oh, no. This isn’t the man.”
+
+**WOLFSHIME (ACTOR SIX)**
+
+No? 
+
+**NICK (ACTOR ONE)**
+
+Mr. Wolfshiem seemed disappointed.
+
+**GATSBY (ACTOR FIVE)**
+
+This is just a friend. I told you we’d talk about that some other time.
+
+**WOLFSHIME (ACTOR SIX)**
+
+I beg your pardon ...
+
+**NICK (ACTOR ONE)**
+
+... said Mr. Wolfshiem ...
+
+**WOLFSHIME (ACTOR SIX)**
+
+I had a wrong man.
+
+**NICK (ACTOR ONE)**
+
+A succulent hash arrived, and Mr. Wolfshiem, forgetting the more sentimental atmosphere of the old Metropole, began to eat with ferocious delicacy. His eyes, meanwhile, roved very slowly all around the room—he completed the arc by turning to inspect the people directly behind. I think that, except for my presence, he would have taken one short glance beneath our own table.
+
+**GATSBY (ACTOR FIVE)**
+
+Look here, old sport ...
+
+**NICK (ACTOR ONE)**
+
+... said Gatsby, leaning toward me ... 
+
+**GATSBY (ACTOR FIVE)**
+
+I’m afraid I made you a little angry this morning in the car.
+
+**NICK (ACTOR ONE)**
+
+There was the smile again, but this time I held out against it.
+
+*[To GATSBY]* I don’t like mysteries. And I don’t understand why you won’t come out frankly and tell me what you want. Why has it all got to come through Miss Baker?
+
+**GATSBY (ACTOR FIVE)**
+
+Oh, it’s nothing underhand... 
+
+**NICK (ACTOR ONE)**
+
+he assured me...
+
+**GATSBY (ACTOR FIVE)**
+
+Miss Baker’s a great sportswoman, you know, and she’d never do anything that wasn’t all right.
+
+*[Looking at this watch.]* Please excuse me! 
+
+*[He rushes away and whispers to the waiter, who points him towards a phone.]*
+
+**WOLFSHIME (ACTOR SIX)**
+
+He has to telephone. Fine fellow, isn’t he? Handsome to look at and a perfect gentleman.
+
+**NICK (ACTOR ONE)**
+
+Yes.
+
+**WOLFSHIME (ACTOR SIX)**
+
+He’s an Oggsford man.
+
+**NICK (ACTOR ONE)**
+
+Oh!
+
+**WOLFSHIME (ACTOR SIX)**
+
+He went to Oggsford College in England. You know Oggsford College?
+
+**NICK (ACTOR ONE)**
+
+I’ve heard of it.
+
+**WOLFSHIME (ACTOR SIX)**
+
+It’s one of the most famous colleges in the world.
+
+**NICK (ACTOR ONE)**
+
+Have you known Gatsby for a long time?”
+
+**WOLFSHIME (ACTOR SIX)**
+
+Several years. I made the pleasure of his acquaintance just after the war. But I knew I had discovered a man of fine breeding after I talked with him an hour. I said to myself: "There’s the kind of man you’d like to take home and introduce to your mother and sister. ” I see you’re looking at my cuff buttons.
+
+**NICK (ACTOR ONE)**
+
+I hadn’t been looking at them, but I did now. They were composed of oddly familiar pieces of ivory.
+
+**WOLFSHIME (ACTOR SIX)**
+
+Finest specimens of human molars.
+
+**NICK (ACTOR ONE)**
+
+Well! ... That’s a very interesting idea.
+
+**WOLFSHIME (ACTOR SIX)**
+
+Yeah. ... Yeah, Gatsby’s very careful about women. He would never so much as look at a friend’s wife.
+
+*[A pause. Gatsby returns to the table.]*
+
+**WOLFSHIME (ACTOR SIX)**
+
+Well, I have enjoyed my lunch. And I’m going to run off from you two young men before I outstay my welcome.
+
+**GATSBY (ACTOR FIVE)**
+
+Don’t hurry Meyer ...
+
+**NICK (ACTOR ONE)**
+
+... said Gatsby, without enthusiasm. 
+
+**WOLFSHIME (ACTOR SIX)**
+
+*[Raising his hand in a sort of benediction.]* You’re very polite, but I belong to another generation...
+
+**NICK (ACTOR ONE)**
+
+... he announced solemnly ... 
+
+**WOLFSHIME (ACTOR SIX)**
+
+You sit here and discuss your sports and your young ladies and your—
+
+**NICK (ACTOR ONE)**
+
+He supplied an imaginary noun with another wave of his hand. 
+
+**WOLFSHIME (ACTOR SIX)**
+
+As for me, I am fifty years old, and I won’t impose myself on you any longer.
+
+*[He shakes hands and leaves. He walks in a circle, returning to the restaurant, now as another background customer or employee.]*
+
+**NICK (ACTOR ONE)**
+
+Did I say something to offend him?
+
+**GATSBY (ACTOR FIVE)**
+
+He becomes very sentimental sometimes ...
+
+**NICK (ACTOR ONE)**
+
+... explained Gatsby ...
+
+**GATSBY (ACTOR FIVE)**
+
+This is one of his sentimental days. He’s quite a character around New York—a denizen of Broadway.
+
+**NICK (ACTOR ONE)**
+
+Who is he, anyhow, an actor?
+
+**GATSBY (ACTOR FIVE)**
+
+No.
+
+**NICK (ACTOR ONE)**
+
+A dentist?
+
+**GATSBY (ACTOR FIVE)**
+
+Meyer Wolfshiem? No, he’s a gambler. He’s the man who fixed the World’s Series back in 1919.
+
+**NICK (ACTOR ONE)**
+
+Fixed the World’s Series?
+
+**GATSBY (ACTOR FIVE)**
+
+Yes.
+
+**NICK (ACTOR ONE)**
+
+The idea staggered me. I remembered, of course, that the World’s Series had been fixed in 1919, but if I had thought of it at all I would have thought of it as a thing that merely happened, the end of some inevitable chain. It never occurred to me that one man could start to play with the faith of fifty million people—with the single-mindedness of a burglar blowing a safe.
+
+“How did he happen to do that?”
+
+**GATSBY (ACTOR FIVE)**
+
+He just saw the opportunity.
+
+**NICK (ACTOR ONE)**
+
+Why isn’t he in jail?
+
+**GATSBY (ACTOR FIVE)**
+
+They can’t get him, old sport. He’s a smart man.
+
+*[TOM is one of the customers.]*
+
+**TOM (ACTOR ONE)**
+
+Nick!
+
+**NICK (ACTOR ONE)**
+
+Tom! *[To GATSBY]* Come along with me for a minute. I’ve got to say hello to someone.
+
+**TOM (ACTOR TWO)**
+
+Where’ve you been?
+
+**NICK (ACTOR ONE)**
+
+... Tom demanded eagerly. 
+
+**TOM (ACTOR TWO)**
+
+Daisy’s furious because you haven’t called up.
+
+**NICK (ACTOR ONE)**
+
+This is Mr. Gatsby, Mr. Buchanan.
+
+*[They shake hands. When TOM turns to NICK, Gatsby moves as far away on stage has he can get, even into the audience.]*
+
+**TOM (ACTOR TWO)**
+
+How’ve you been, anyhow? ...
+
+**NICK (ACTOR ONE)**
+
+,,, demanded Tom of me ...
+
+**TOM (ACTOR TWO)**
+
+How’d you happen to come up this far to eat?
+
+**NICK (ACTOR ONE)**
+
+I’ve been having lunch with Mr. Gatsby.
+
+*[The both turn and are astonished to find him gone. They look at each other in silence.]
+
+
+*[A restaurant customer or waitress becomes JORDAN.]*
+
+**JORDAN (ACTOR FOUR)**
+
+One October day in nineteen-seventeen—
+
+**NICK (ACTOR ONE)**
+
+(said Jordan Baker that afternoon, sitting up very straight on a straight chair in the tea-garden at the Plaza Hotel)
+
+*[As JORDAN speaks, TOM fades back into the restaurant, becoming someone else, maybe a customer, reading a newspaper... The other actors, except mayby GATSBY, who is still far away, become stay restaurant people, but it's a different establishment, and perhaps someone is playing the guitar.]*
+
+**JORDAN (ACTOR FOUR)**
+
+—I was walking along from one place to another, half on the sidewalks and half on the lawns. I was happier on the lawns because I had on shoes from England with rubber knobs on the soles that bit into the soft ground. I had on a new plaid skirt also that blew a little in the wind, and whenever this happened the red, white, and blue banners in front of all the houses stretched out stiff and said tut-tut-tut-tut, in a disapproving way.
+
+The largest of the banners and the largest of the lawns belonged to Daisy Fay’s house. She was just eighteen, two years older than me, and by far the most popular of all the young girls in Louisville. She dressed in white, and had a little white roadster, and all day long the telephone rang in her house and excited young officers from Camp Taylor demanded the privilege of monopolizing her that night. “Anyways, for an hour!”
+
+When I came opposite her house that morning her white roadster was beside the kerb, and she was sitting in it with a lieutenant I had never seen before. They were so engrossed in each other that she didn’t see me until I was five feet away.
+
+“Hello, Jordan,” she called unexpectedly. “Please come here.”
+
+I was flattered that she wanted to speak to me, because of all the older girls I admired her most. She asked me if I was going to the Red Cross to make bandages. I was. Well, then, would I tell them that she couldn’t come that day? The officer looked at Daisy while she was speaking, in a way that every young girl wants to be looked at sometime, and because it seemed romantic to me I have remembered the incident ever since. His name was Jay Gatsby, and I didn’t lay eyes on him again for over four years—even after I’d met him on Long Island I didn’t realize it was the same man.
+
+That was nineteen-seventeen. By the next year I had a few beaux myself, and I began to play in tournaments, so I didn’t see Daisy very often. She went with a slightly older crowd—when she went with anyone at all. Wild rumours were circulating about her—how her mother had found her packing her bag one winter night to go to New York and say goodbye to a soldier who was going overseas. She was effectually prevented, but she wasn’t on speaking terms with her family for several weeks. After that she didn’t play around with the soldiers any more, but only with a few flat-footed, shortsighted young men in town, who couldn’t get into the army at all.
+
+By the next autumn she was gay again, gay as ever. She had a début after the armistice, and in February she was presumably engaged to a man from New Orleans. In June she married Tom Buchanan of Chicago, with more pomp and circumstance than Louisville ever knew before. He came down with a hundred people in four private cars, and hired a whole floor of the Muhlbach Hotel, and the day before the wedding he gave her a string of pearls valued at three hundred and fifty thousand dollars.
+
+I was a bridesmaid. I came into her room half an hour before the bridal dinner, and found her lying on her bed as lovely as the June night in her flowered dress—and as drunk as a monkey. She had a bottle of Sauterne in one hand and a letter in the other.
+
+“ ’Gratulate me,” she muttered. “Never had a drink before, but oh how I do enjoy it.”
+
+“What’s the matter, Daisy?”
+
+I was scared, I can tell you; I’d never seen a girl like that before.
+
+“Here, dearies.” She groped around in a wastebasket she had with her on the bed and pulled out the string of pearls. “Take ’em downstairs and give ’em back to whoever they belong to. Tell ’em all Daisy’s change’ her mine. Say: ‘Daisy’s change’ her mine!’ ”
+
+She began to cry—she cried and cried. I rushed out and found her mother’s maid, and we locked the door and got her into a cold bath. She wouldn’t let go of the letter. She took it into the tub with her and squeezed it up in a wet ball, and only let me leave it in the soap-dish when she saw that it was coming to pieces like snow.
+
+But she didn’t say another word. We gave her spirits of ammonia and put ice on her forehead and hooked her back into her dress, and half an hour later, when we walked out of the room, the pearls were around her neck and the incident was over. Next day at five o’clock she married Tom Buchanan without so much as a shiver, and started off on a three months’ trip to the South Seas.
+
+I saw them in Santa Barbara when they came back, and I thought I’d never seen a girl so mad about her husband. If he left the room for a minute she’d look around uneasily, and say: “Where’s Tom gone?” and wear the most abstracted expression until she saw him coming in the door. She used to sit on the sand with his head in her lap by the hour, rubbing her fingers over his eyes and looking at him with unfathomable delight. It was touching to see them together—it made you laugh in a hushed, fascinated way. That was in August. A week after I left Santa Barbara Tom ran into a wagon on the Ventura road one night, and ripped a front wheel off his car. The girl who was with him got into the papers, too, because her arm was broken—she was one of the chambermaids in the Santa Barbara Hotel.
+
+The next April Daisy had her little girl, and they went to France for a year. I saw them one spring in Cannes, and later in Deauville, and then they came back to Chicago to settle down. Daisy was popular in Chicago, as you know. They moved with a fast crowd, all of them young and rich and wild, but she came out with an absolutely perfect reputation. Perhaps because she doesn’t drink. It’s a great advantage not to drink among hard-drinking people. You can hold your tongue and, moreover, you can time any little irregularity of your own so that everybody else is so blind that they don’t see or care. Perhaps Daisy never went in for amour at all—and yet there’s something in that voice of hers…
+
+Well, about six weeks ago, she heard the name Gatsby for the first time in years. It was when I asked you—do you remember?—if you knew Gatsby in West Egg. After you had gone home she came into my room and woke me up, and said: “What Gatsby?” and when I described him—I was half asleep—she said in the strangest voice that it must be the man she used to know. It wasn’t until then that I connected this Gatsby with the officer in her white car.
+
+**NICK (ACTOR ONE)**
+
+When Jordan Baker had finished telling all this we had left the Plaza for half an hour and were driving in a victoria through Central Park. The sun had gone down behind the tall apartments of the movie stars in the West Fifties, and the clear voices of children, already gathered like crickets on the grass, rose through the hot twilight:
+
+**FAR AWAY RADIO VOICE (AN ACTOR WHO CAN SING)**
+
+I’m the Sheik of Araby.
+Your love belongs to me.
+At night when you’re asleep
+Into your tent I’ll creep—
+
+**NICK (ACTOR ONE)**
+
+"It was a strange coincidence,” I said.
+
+**JORDAN (ACTOR FOUR)**
+
+But it wasn’t a coincidence at all.
+
+**NICK (ACTOR ONE)**
+
+Why not?
+
+**JORDAN (ACTOR FOUR)**
+
+Gatsby bought that house so that Daisy would be just across the bay.
+
+**NICK (ACTOR ONE)**
+
+Then it had not been merely the stars to which he had aspired on that June night. He came alive to me, delivered suddenly from the womb of his purposeless splendour.
+
+**JORDAN (ACTOR FOUR)**
+
+He wants to know ... 
+
+**NICK (ACTOR ONE)**
+
+... continued Jordan ...
+
+**JORDAN (ACTOR FOUR)**
+
+if you’ll invite Daisy to your house some afternoon and then let him come over.
+
+**NICK (ACTOR ONE)**
+
+The modesty of the demand shook me. He had waited five years and bought a mansion where he dispensed starlight to casual moths—so that he could “come over” some afternoon to a stranger’s garden.
+
+**JORDAN (ACTOR FOUR)**
+
+Nick?
+
+**NICK (ACTOR ONE)**
+
+Did I have to know all this before he could ask such a little thing?
+
+**JORDAN (ACTOR FOUR)**
+
+He’s afraid, he’s waited so long. He thought you might be offended. You see, he’s regular tough underneath it all.
+
+**NICK (ACTOR ONE)**
+
+Why didn’t he ask you to arrange a meeting?
+
+**JORDAN (ACTOR FOUR)**
+
+He wants her to see his house ... 
+
+**NICK (ACTOR ONE)**
+
+... she explained ... 
+
+**NICK (ACTOR ONE)**
+
+... And your house is right next door.
+
+[A pause.]
+
+**JORDAN (ACTOR FOUR)**
+
+I think he half expected her to wander into one of his parties, some night, but she never did. Then he began asking people casually if they knew her, and I was the first one he found. It was that night he sent for me at his dance, and you should have heard the elaborate way he worked up to it. Of course, I immediately suggested a luncheon in New York—and I thought he’d go mad:
+
+**GATSBY (ACTOR FIVE)**
+
+*[From wherever he is]*
+“I don’t want to do anything out of the way! ... 
+
+**JORDAN (ACTOR FOUR)**
+
+... he kept saying. 
+
+**GATSBY (ACTOR FIVE)**
+
+I want to see her right next door.
+
+**JORDAN (ACTOR FOUR)**
+
+When I said you were a particular friend of Tom’s, he started to abandon the whole idea. He doesn’t know very much about Tom, though he says he’s read a Chicago paper for years just on the chance of catching a glimpse of Daisy’s name.
+
+**JORDAN (ACTOR FOUR)**
+
+*[Silence. Music. JORDAN'S head is on NICK's shoulder.]*
+
+**NICK (ACTOR ONE)**
+
+I wasn’t thinking of Daisy and Gatsby any more, but of this clean, hard, limited person, who dealt in universal scepticism, and who leaned back jauntily just within the circle of my arm. A phrase began to beat in my ears with a sort of heady excitement: “There are only the pursued, the pursuing, the busy, and the tired.”
+
+**JORDAN (ACTOR FOUR)**
+
+And Daisy ought to have something in her life.
+
+**NICK (ACTOR ONE)**
+
+Does she want to see Gatsby?
+
+**JORDAN (ACTOR FOUR)**
+
+She’s not to know about it. Gatsby doesn’t want her to know. You’re just supposed to invite her to tea.
+
+**NICK (ACTOR ONE)**
+
+We passed a barrier of dark trees, and then the façade of Fifty-Ninth Street, a block of delicate pale light, beamed down into the park. Unlike Gatsby and Tom Buchanan, I had no girl whose disembodied face floated along the dark cornices and blinding signs, and so I drew up the girl beside me, tightening my arms. Her wan, scornful mouth smiled, and so I drew her up again closer, this time to my face.
+
+*[They kiss.]*
