@@ -3496,3 +3496,798 @@ She’s not to know about it. Gatsby doesn’t want her to know. You’re just s
 We passed a barrier of dark trees, and then the façade of Fifty-Ninth Street, a block of delicate pale light, beamed down into the park. Unlike Gatsby and Tom Buchanan, I had no girl whose disembodied face floated along the dark cornices and blinding signs, and so I drew up the girl beside me, tightening my arms. Her wan, scornful mouth smiled, and so I drew her up again closer, this time to my face.
 
 *[They kiss.]*
+
+## Act Five
+
+**NICK (ACTOR ONE)**
+
+When I came home to West Egg that night I was afraid for a moment that my house was on fire. Two o’clock and the whole corner of the peninsula was blazing with light, which fell unreal on the shrubbery and made thin elongating glints upon the roadside wires. Turning a corner, I saw that it was Gatsby’s house, lit from tower to cellar.
+
+At first I thought it was another party, a wild rout that had resolved itself into “hide-and-go-seek” or “sardines-in-the-box” with all the house thrown open to the game. But there wasn’t a sound. Only wind in the trees, which blew the wires and made the lights go off and on again as if the house had winked into the darkness. As my taxi groaned away I saw Gatsby walking toward me across his lawn.
+
+“Your place looks like the World’s Fair,” I said.
+
+**GATSBY (ACTOR FIVE)**
+
+*[From wherever he is onstage or in the audience]*
+
+Does it 
+
+**NICK (ACTOR ONE)**
+
+He turned his eyes toward it absently.
+
+**GATSBY (ACTOR FIVE)**
+
+I have been glancing into some of the rooms. Let’s go to Coney Island, old sport. In my car.
+
+**NICK (ACTOR ONE)**
+
+It’s too late.
+
+**GATSBY (ACTOR FIVE)**
+
+Well, suppose we take a plunge in the swimming pool? I haven’t made use of it all summer.
+
+**NICK (ACTOR ONE)**
+
+I’ve got to go to bed.
+
+**GATSBY (ACTOR FIVE)**
+
+All right.
+
+[A pause.]
+
+**NICK (ACTOR ONE)**
+
+I talked with Miss Baker. I’m going to call up Daisy tomorrow and invite her over here to tea.
+
+**GATSBY (ACTOR FIVE)**
+
+Oh, that’s all right ...
+
+**NICK (ACTOR ONE)**
+
+... he said carelessly. 
+
+**GATSBY (ACTOR FIVE)**
+
+I don’t want to put you to any trouble.
+
+**NICK (ACTOR ONE)**
+
+What day would suit you?
+
+**GATSBY (ACTOR FIVE)**
+
+What day would suit *you?* I don’t want to put you to any trouble, you see.
+
+**NICK (ACTOR ONE)**
+
+How about the day after tomorrow?
+
+**GATSBY (ACTOR FIVE)**
+
+*[After a pause ...]*
+ 
+I want to get the grass cut.
+
+**NICK (ACTOR ONE)**
+
+We both looked down at the grass—there was a sharp line where my ragged lawn ended and the darker, well-kept expanse of his began. I suspected that he meant my grass.
+
+**GATSBY (ACTOR FIVE)**
+
+There’s another little thing.
+
+*[A pause.]*
+
+**NICK (ACTOR ONE)**
+
+Would you rather put it off for a few days?
+
+**GATSBY (ACTOR FIVE)**
+
+Oh, it isn’t about that. At least—Why, I thought—why, look here, old sport, you don’t make much money, do you?
+
+**NICK (ACTOR ONE)**
+
+Not very much.
+
+**GATSBY (ACTOR FIVE)**
+
+I thought you didn’t, if you’ll pardon my—you see, I carry on a little business on the side, a sort of side line, you understand. And I thought that if you don’t make very much—You’re selling bonds, aren’t you, old sport?
+
+**NICK (ACTOR ONE)**
+
+Trying to.
+
+**GATSBY (ACTOR FIVE)**
+
+Well, this would interest you. It wouldn’t take up much of your time and you might pick up a nice bit of money. It happens to be a rather confidential sort of thing.
+
+**NICK (ACTOR ONE)**
+
+I realize now that under different circumstances that conversation might have been one of the crises of my life. But, because the offer was obviously and tactlessly for a service to be rendered, I had no choice except to cut him off there.
+
+"I’ve got my hands full,” I said. “I’m much obliged but I couldn’t take on any more work.”
+
+**NICK (ACTOR ONE)**
+
+You wouldn’t have to do any business with Wolfshiem. 
+
+**NICK (ACTOR ONE)**
+
+Evidently he thought that I was shying away from the “gonnegtion” mentioned at lunch, but I assured him he was wrong. He waited a moment longer, hoping I’d begin a conversation, but I was too absorbed to be responsive, so he went unwillingly home.
+
+*[The ACTORS build the interior of NICK's house around him.]*
+
+The evening had made me lightheaded and happy; I think I walked into a deep sleep as I entered my front door. So I don’t know whether or not Gatsby went to Coney Island, or for how many hours he “glanced into rooms” while his house blazed gaudily on. I called up Daisy from the office next morning, and invited her to come to tea.
+
+“Don’t bring Tom,” I warned her.
+
+**DAISY (ACTOR THREE)**
+
+*[While still acting as a servant helping to build NICK's room.]*
+
+What?
+
+**NICK (ACTOR ONE)**
+
+Don’t bring Tom.”
+
+**DAISY (ACTOR THREE)**
+
+Who is ‘Tom’?
+
+**NICK (ACTOR ONE)**
+
+*[The ACTORS continue to spruce up NICK's room while he sits.]*
+
+The day agreed upon was pouring rain. At eleven o’clock a man in a raincoat, dragging a lawn-mower, tapped at my front door and said that Mr. Gatsby had sent him over to cut my grass. This reminded me that I had forgotten to tell my Finn to come back, so I drove into West Egg Village to search for her among soggy whitewashed alleys and to buy some cups and lemons and flowers.
+
+The flowers were unnecessary, for at two o’clock a greenhouse arrived from Gatsby’s, with innumerable receptacles to contain it. An hour later the front door opened nervously, and Gatsby in a white flannel suit, silver shirt, and gold-coloured tie, hurried in. He was pale, and there were dark signs of sleeplessness beneath his eyes.
+
+**GATSBY (ACTOR FIVE)**
+
+*[Coming into NICK's house]*
+
+Is everything all right?
+
+**NICK (ACTOR ONE)**
+
+The grass looks fine, if that’s what you mean.
+
+**GATSBY (ACTOR FIVE)**
+
+What grass? Oh, the grass in the yard.
+
+**NICK (ACTOR ONE)**
+
+He looked out the window at it, but, judging from his expression, I don’t believe he saw a thing.
+
+**GATSBY (ACTOR FIVE)**
+
+Looks very good. One of the papers said they thought the rain would stop about four. I think it was The Journal. Have you got everything you need in the shape of—of tea?
+
+**NICK (ACTOR ONE)**
+
+I took him into the pantry, where he looked a little reproachfully at the Finn. Together we scrutinized the twelve lemon cakes from the delicatessen shop.
+
+“Will they do?” I asked.
+
+**GATSBY (ACTOR FIVE)**
+
+Of course, of course! They’re fine! 
+
+**NICK (ACTOR ONE)**
+
+And he added hollowly ...
+
+**GATSBY (ACTOR FIVE)**
+
+...old sport.
+
+The rain cooled about half-past three to a damp mist, through which occasional thin drops swam like dew. Gatsby looked with vacant eyes through a copy of Clay’s Economics, starting at the Finnish tread that shook the kitchen floor, and peering towards the bleared windows from time to time as if a series of invisible but alarming happenings were taking place outside. Finally he got up and informed me, in an uncertain voice, that he was going home.
+
+**NICK (ACTOR ONE)**
+
+Why’s that?
+
+**GATSBY (ACTOR FIVE)**
+
+Nobody’s coming to tea. It’s too late! I can’t wait all day.”
+
+**NICK (ACTOR ONE)**
+
+Don’t be silly; it’s just two minutes to four.
+
+He sat down miserably, as if I had pushed him, and simultaneously there was the sound of a motor turning into my lane. We both jumped up, and, a little harrowed myself, I went out into the yard.
+
+*[NICK steps outside. GATSBY runs out the back door.]*
+
+Under the dripping bare lilac-trees a large open car was coming up the drive. It stopped. Daisy’s face, tipped sideways beneath a three-cornered lavender hat, looked out at me with a bright ecstatic smile.
+
+**DAISY (ACTOR THREE)**
+
+Is this absolutely where you live, my dearest one?
+
+**NICK (ACTOR ONE)**
+
+The exhilarating ripple of her voice was a wild tonic in the rain. I had to follow the sound of it for a moment, up and down, with my ear alone, before any words came through. A damp streak of hair lay like a dash of blue paint across her cheek, and her hand was wet with glistening drops as I took it to help her from the car.
+
+**DAISY (ACTOR THREE)**
+
+Are you in love with me, or why did I have to come alone?
+
+**NICK (ACTOR ONE)**
+
+That’s the secret of Castle Rackrent. Tell your chauffeur to go far away and spend an hour.
+
+**DAISY (ACTOR THREE)**
+
+Come back in an hour, Ferdie. His name is Ferdie.
+
+**NICK (ACTOR ONE)**
+
+Does the gasoline affect his nose?
+
+**DAISY (ACTOR THREE)**
+
+I don’t think so. Why?
+
+**NICK (ACTOR ONE)**
+
+We went in. To my overwhelming surprise the living-room was deserted.
+
+**NICK (ACTOR ONE)**
+
+Well, that’s funny.
+
+**DAISY (ACTOR THREE)**
+
+What’s funny?
+
+*[GATSBY knocks. NICK walks to the back, lets him in. He walks past NICK, towards DAISY.]*
+
+*[A Pause.]*
+
+**DAISY (ACTOR THREE)**
+
+I certainly am awfully glad to see you again.
+
+*[A pause.]*
+
+*[NICK walks back into the room. The three are silent. Then ...]*
+
+**DAISY (ACTOR THREE)**
+
+We’ve met before. 
+
+*[A pause.]*
+
+**NICK (ACTOR ONE)**
+
+Luckily the clock took this moment to tilt dangerously at the pressure of his head, whereupon he turned and caught it with trembling fingers, and set it back in place. Then he sat down, rigidly, his elbow on the arm of the sofa and his chin in his hand.
+
+**GATSBY (ACTOR FIVE)**
+
+I’m sorry about the clock.
+
+**NICK (ACTOR ONE)**
+
+My own face had now assumed a deep tropical burn. I couldn’t muster up a single commonplace out of the thousand in my head.
+
+“It’s an old clock,” I told them idiotically.
+
+I think we all believed for a moment that it had smashed in pieces on the floor.
+
+**DAISY (ACTOR THREE)**
+
+We haven’t met for many years.
+
+**GATSBY (ACTOR FIVE)**
+
+Five years next November.
+
+**NICK (ACTOR ONE)**
+
+The automatic quality of Gatsby’s answer set us all back at least another minute. I made an excuse at the first possible moment, and got to my feet.
+
+**GATSBY (ACTOR FIVE)**
+
+Where are you going?
+
+**NICK (ACTOR ONE)**
+
+I’ll be back.
+
+**GATSBY (ACTOR FIVE)**
+
+I’ve got to speak to you about something before you go.
+
+*[The two men leave DAISY alone. A pause.]* 
+
+**GATSBY (ACTOR FIVE)**
+
+Oh, God!
+
+**NICK (ACTOR ONE)**
+
+What’s the matter?
+
+**GATSBY (ACTOR FIVE)**
+
+This is a terrible mistake. 
+
+**NICK (ACTOR ONE)**
+
+You’re just embarrassed, that’s all.
+
+**GATSBY (ACTOR FIVE)**
+
+A terrible, terrible mistake.
+
+**NICK (ACTOR ONE)**
+
+Daisy’s embarrassed too.
+
+**GATSBY (ACTOR FIVE)**
+
+She’s embarrassed?
+
+**NICK (ACTOR ONE)**
+
+Just as much as you are.
+
+**GATSBY (ACTOR FIVE)**
+
+Don’t talk so loud.
+
+**NICK (ACTOR ONE)**
+
+You’re acting like a little boy. Not only that, but you’re rude. Daisy’s sitting in there all alone.
+
+*[GATSBY looks at NICK with unforgettable reproach, and, opening the door cautiously, goes back into the other room. The other ACTORS, who have been standing still, playing servants or just keeping out of the way, on the end of the stage, hide DAISY and GATSBY, maybe behind a screen,]*
+
+**NICK (ACTOR ONE)**
+
+*[Leaving his house.]*
+
+I walked out the back way—just as Gatsby had when he had made his nervous circuit of the house half an hour before—and ran for a huge black knotted tree, whose massed leaves made a fabric against the rain. Once more it was pouring, and my irregular lawn, well-shaved by Gatsby’s gardener, abounded in small muddy swamps and prehistoric marshes. There was nothing to look at from under the tree except Gatsby’s enormous house, so I stared at it, like Kant at his church steeple, for half an hour. A brewer had built it early in the “period” craze, a decade before, and there was a story that he’d agreed to pay five years’ taxes on all the neighbouring cottages if the owners would have their roofs thatched with straw. Perhaps their refusal took the heart out of his plan to Found a Family—he went into an immediate decline. His children sold his house with the black wreath still on the door. Americans, while willing, even eager, to be serfs, have always been obstinate about being peasantry.
+
+After half an hour, the sun shone again, and the grocer’s automobile rounded Gatsby’s drive with the raw material for his servants’ dinner—I felt sure he wouldn’t eat a spoonful. A maid began opening the upper windows of his house, appeared momentarily in each, and, leaning from the large central bay, spat meditatively into the garden. It was time I went back. While the rain continued it had seemed like the murmur of their voices, rising and swelling a little now and then with gusts of emotion. But in the new silence I felt that silence had fallen within the house too.
+
+*[Returing to his house.]*
+
+I went in—after making every possible noise in the kitchen, short of pushing over the stove—but I don’t believe they heard a sound. They were sitting at either end of the couch, looking at each other as if some question had been asked, or was in the air, and every vestige of embarrassment was gone. Daisy’s face was smeared with tears, and when I came in she jumped up and began wiping at it with her handkerchief before a mirror. But there was a change in Gatsby that was simply confounding. He literally glowed; without a word or a gesture of exultation a new well-being radiated from him and filled the little room.
+
+*[The ACTORS reveal DAISY and GATSBY]*
+
+**GATSBY (ACTOR FIVE)**
+
+Oh, hello, old sport ...
+
+**NICK (ACTOR ONE)**
+
+... he said, as if he hadn’t seen me for years. I thought for a moment he was going to shake hands.
+
+**NICK (ACTOR ONE)**
+
+It’s stopped raining.
+
+**GATSBY (ACTOR FIVE)**
+
+Has it?
+
+**NICK (ACTOR ONE)**
+
+When he realized what I was talking about, that there were twinkle-bells of sunshine in the room, he smiled like a weather man, like an ecstatic patron of recurrent light, and repeated the news to Daisy.
+
+**GATSBY (ACTOR FIVE)**
+
+What do you think of that? It’s stopped raining.
+
+**DAISY (ACTOR THREE)**
+
+I’m glad, Jay.
+
+**NICK (ACTOR ONE)**
+
+Her throat, full of aching, grieving beauty, told only of her unexpected joy.
+
+**GATSBY (ACTOR FIVE)**
+
+I want you and Daisy to come over to my house. I’d like to show her around.
+
+**NICK (ACTOR ONE)**
+
+You’re sure you want me to come?
+
+**DAISY (ACTOR THREE)**
+
+Absolutely, old sport.
+
+**NICK (ACTOR ONE)**
+
+*[DASIY exists, perhaps walking behind a screen. NICK and GATSBY step outside.]*
+
+Daisy went upstairs to wash her face—too late I thought with humiliation of my towels—while Gatsby and I waited on the lawn.
+
+**GATSBY (ACTOR FIVE)**
+
+My house looks well, doesn’t it? 
+
+**NICK (ACTOR ONE)**
+
+... he demanded... 
+
+**GATSBY (ACTOR FIVE)**
+
+See how the whole front of it catches the light.
+
+**NICK (ACTOR ONE)**
+
+I agreed that it was splendid.
+
+**GATSBY (ACTOR FIVE)**
+
+Yes.
+
+**NICK (ACTOR ONE)**
+
+His eyes went over it, every arched door and square tower. 
+
+**GATSBY (ACTOR FIVE)**
+
+It took me just three years to earn the money that bought it.
+
+**NICK (ACTOR ONE)**
+
+I thought you inherited your money.
+
+**GATSBY (ACTOR FIVE)**
+
+I did, old sport,but I lost most of it in the big panic—the panic of the war.
+
+**NICK (ACTOR ONE)**
+
+I think he hardly knew what he was saying, for when I asked him what business he was in he answered: 
+
+**GATSBY (ACTOR FIVE)**
+
+“That’s my affair!
+
+**NICK (ACTOR ONE)**
+
+... before he realized that it wasn’t an appropriate reply.
+
+**GATSBY (ACTOR FIVE)**
+
+Oh, I’ve been in several things. I was in the drug business and then I was in the oil business. But I’m not in either one now. Do you mean you’ve been thinking over what I proposed the other night?
+
+**NICK (ACTOR ONE)**
+
+Before I could answer ...
+
+**DAISY (ACTOR THREE)**
+
+*[Joining them.]*
+
+That huge place there?
+
+**GATSBY (ACTOR FIVE)**
+
+Do you like it?
+
+**DAISY (ACTOR THREE)**
+
+I love it, but I don’t see how you live there all alone.
+
+**GATSBY (ACTOR FIVE)**
+
+I keep it always full of interesting people, night and day. People who do interesting things. Celebrated people.
+
+**NICK (ACTOR ONE)**
+
+*[They walk together, NICK lagging behind.]*
+
+Instead of taking the shortcut along the Sound we went down to the road and entered by the big postern. With enchanting murmurs Daisy admired this aspect or that of ...
+
+**DAISY (ACTOR THREE)**
+
+...the feudal silhouette against the sky ...
+
+**NICK (ACTOR ONE)**
+
+... admired 
+
+**GATSBY (ACTOR FIVE)**
+
+... the garden ...
+
+**NICK (ACTOR ONE)**
+
+... the ...
+
+**DAISY (ACTOR THREE)**
+
+... sparkling odour of jonquils ...
+
+**NICK (ACTOR ONE)**
+
+... and ...
+
+**DAISY (ACTOR THREE)**
+
+... the frothy odour of hawthorn ...
+
+**NICK (ACTOR ONE)**
+
+... and 
+
+.**DAISY (ACTOR THREE)**
+
+... plum blossoms ...
+
+**NICK (ACTOR ONE)**
+
+... and ...
+
+**DAISY (ACTOR THREE)**
+
+... the pale gold odour of kiss-me-at-the-gate. 
+
+**NICK (ACTOR ONE)**
+
+It was strange to reach the marble steps and find no stir of bright dresses in and out the door, and hear no sound but bird voices in the trees.
+
+And inside, as we wandered through ...
+
+**GATSBY (ACTOR FIVE)**
+
+Marie Antoinette music-rooms 
+
+**NICK (ACTOR ONE)**
+
+... and ...
+
+**GATSBY (ACTOR FIVE)**
+
+Restoration Salons ...
+
+**NICK (ACTOR ONE)**
+
+I felt that there were guests concealed behind every couch and table, under orders to be breathlessly silent until we had passed through. As Gatsby closed the door of ...
+
+**GATSBY (ACTOR FIVE)**
+
+The Merton College Library. 
+
+**NICK (ACTOR ONE)**
+
+... I could have sworn I heard the owl-eyed man break into ghostly laughter.
+
+We went upstairs, through period bedrooms swathed in ...
+
+**DAISY (ACTOR THREE) and GATSBY (ACTOR FIVE)**
+
+rose and lavender silk 
+
+**NICK (ACTOR ONE)**
+
+... and vivid with new flowers, through ...
+
+**DAISY (ACTOR THREE)**
+
+... dressing-rooms ...
+
+**GATSBY (ACTOR FIVE)**
+
+... and poolrooms ... 
+
+**NICK (ACTOR ONE)**
+
+... and bathrooms with sunken baths—intruding into one chamber where a dishevelled man in pyjamas was doing liver exercises on the floor. It was 
+
+
+**MR. KLIPSPRINGER (ACTOR SIX)**
+
+Mr. Klipspringer, the “boarder.” 
+
+**NICK (ACTOR ONE)**
+
+I had seen him wandering hungrily about the beach that morning. 
+
+Finally we came to ...
+
+**GATSBY (ACTOR FIVE)**
+
+Gatsby’s own apartment:
+
+**NICK (ACTOR ONE)**
+
+a bedroom and a bath, and an Adam’s study, where we sat down and drank a glass of some Chartreuse he took from a cupboard in the wall.
+
+*[They sit.]*
+
+He hadn’t once ceased looking at Daisy, and I think he revalued everything in his house according to the measure of response it drew from her well-loved eyes. Sometimes too, he stared around at his possessions in a dazed way, as though in her actual and astounding presence none of it was any longer real. Once he nearly toppled down a flight of stairs.
+
+His bedroom was the simplest room of all—except where the dresser was garnished with ...
+
+**DAISY (ACTOR THREE)**
+
+... a toilet set of pure dull gold. Daisy took the brush with delight, and smoothed her hair, whereupon Gatsby sat down and shaded his eyes and began to laugh.
+
+**GATSBY (ACTOR FIVE)**
+
+It’s the funniest thing, old sport. I can’t—When I try to—
+
+**NICK (ACTOR ONE)**
+
+He had passed visibly through two states and was entering upon a third. After his embarrassment and his unreasoning joy he was consumed with wonder at her presence. He had been full of the idea so long, dreamed it right through to the end, waited with his teeth set, so to speak, at an inconceivable pitch of intensity. Now, in the reaction, he was running down like an over-wound clock.
+
+Recovering himself in a minute he opened for us two hulking patent cabinets which held his massed suits and dressing-gowns and ties, and his shirts, piled like bricks in stacks a dozen high.
+
+*[ACTORS hold great piles of folded shirts.]*
+
+**GATSBY (ACTOR FIVE)**
+
+I’ve got a man in England who buys me clothes. He sends over a selection of things at the beginning of each season, spring and fall.”
+
+He took out a pile of shirts and ...
+
+*[GATSBY starts grabbing shirts and throwing them about the room ...]*
+
+... shirts of sheer linen and thick silk and fine flannel, which lost their folds as they fell and covered the table in many-coloured disarray. While we admired he brought more and the soft rich heap mounted higher—shirts with stripes and scrolls and plaids in coral and apple-green and lavender and faint orange, with monograms of indian blue. 
+
+*[Daisy picks up a shirt or two, bend her head into them, and began to cry.]*
+
+**DAISY (ACTOR THREE)**
+
+They’re such beautiful shirts. It makes me sad because I’ve never seen such—such beautiful shirts before.
+
+**NICK (ACTOR ONE)**
+
+After the house, we were to see the grounds ...
+
+**GATSBY (ACTOR FIVE)**
+
+and the swimming pool, and the hydroplane, and the midsummer flowers—
+
+**NICK (ACTOR ONE)**
+
+... but outside Gatsby’s window it began to rain again, so we stood in a row looking at the corrugated surface of the Sound.
+
+**GATSBY (ACTOR FIVE)**
+
+If it wasn’t for the mist we could see your home across the bay. You always have a green light that burns all night at the end of your dock.
+
+*[Daisy puts her arm through his.]*
+
+**NICK (ACTOR ONE)**
+
+He seemed absorbed in what he had just said. Possibly it had occurred to him that the colossal significance of that light had now vanished forever. Compared to the great distance that had separated him from Daisy it had seemed very near to her, almost touching her. It had seemed as close as a star to the moon. Now it was again a green light on a dock. His count of enchanted objects had diminished by one.
+
+I began to walk about the room, examining various indefinite objects in the half darkness. A large photograph of an elderly man in yachting costume attracted me, hung on the wall over his desk.
+
+“Who’s this?”
+
+**GATSBY (ACTOR FIVE)**
+
+That? That’s Mr. Dan Cody, old sport.
+
+**NICK (ACTOR ONE)**
+
+The name sounded faintly familiar.
+
+**GATSBY (ACTOR FIVE)**
+
+He’s dead now. He used to be my best friend years ago.
+
+**NICK (ACTOR ONE)**
+
+There was a small picture of Gatsby, also in yachting costume, on the bureau—Gatsby with his head thrown back defiantly—taken apparently when he was about eighteen.
+
+*[He shows it to DAISY.]*
+
+**DAISY (ACTOR THREE)**
+
+I adore it. The pompadour! You never told me you had a pompadour—or a yacht.
+
+**GATSBY (ACTOR FIVE)**
+
+Look at this ...
+
+**NICK (ACTOR ONE)**
+
+... said Gatsby quickly. 
+
+**GATSBY (ACTOR FIVE)**
+
+Here’s a lot of clippings—about you.
+
+*[They stand side by side examining it. A pause.]* 
+
+**NICK (ACTOR ONE)**
+
+I was going to ask to see the rubies when ...
+
+**TELEPHONE (ACTOR FOUR)**
+
+Ring ring ring.
+
+**GATSBY (ACTOR FIVE)**
+
+*[Answering.]* Yes… Well, I can’t talk now… I can’t talk now, old sport… I said a small town… He must know what a small town is… Well, he’s no use to us if Detroit is his idea of a small town…”
+
+**DAISY (ACTOR THREE)**
+
+*[At the window.]* Come here quick!
+
+**NICK (ACTOR ONE)**
+
+The rain was still falling, but the darkness had parted in the west, and there was a pink and golden billow of foamy clouds above the sea.
+
+**DAISY (ACTOR THREE)**
+
+Look at that. I’d like to just get one of those pink clouds and put you in it and push you around.”
+
+**NICK (ACTOR ONE)**
+
+I tried to go then, but they wouldn’t hear of it; perhaps my presence made them feel more satisfactorily alone.
+
+**GATSBY (ACTOR FIVE)**
+
+I know what we’ll do. We’ll have Klipspringer play the piano. Ewing!
+
+*[MR. KLIPSPRINGER steps forward shyly.]*
+
+**DAISY (ACTOR THREE)**
+
+Did we interrupt your exercise?
+
+**MR. KLIPSPRINGER (ACTOR SIX)**
+
+I was asleep. That is, I’d been asleep. Then I got up…”
+
+**GATSBY (ACTOR FIVE)**
+
+Klipspringer plays the piano. Don’t you, Ewing, old sport?
+
+**MR. KLIPSPRINGER (ACTOR SIX)**
+
+I don’t play well. I don’t—hardly play at all. I’m all out of prac—
+
+**GATSBY (ACTOR FIVE)**
+
+We’ll go downstairs.
+
+**NICK (ACTOR ONE)**
+
+He flipped a switch. The grey windows disappeared as the house glowed full of light.
+
+In the music-room Gatsby turned on a solitary lamp beside the piano. He lit Daisy’s cigarette from a trembling match, and sat down with her on a couch far across the room, where there was no light save what the gleaming floor bounced in from the hall.
+
+**MR. KLIPSPRINGER (ACTOR SIX)**
+
+I’m all out of practice, you see. I told you I couldn’t play. I’m all out of prac—
+
+**GATSBY (ACTOR FIVE)**
+
+Don’t talk so much, old sport. Play!
+
+*[MR. KLIPSPRINGER plays. DAISY and GATSBY dance in each other's arms.]*
+
+**NICK (ACTOR ONE)**
+
+Outside the wind was loud and there was a faint flow of thunder along the Sound. All the lights were going on in West Egg now; the electric trains, men-carrying, were plunging home through the rain from New York. It was the hour of a profound human change, and excitement was generating on the air.
+
+As I went over to say goodbye I saw that the expression of bewilderment had come back into Gatsby’s face, as though a faint doubt had occurred to him as to the quality of his present happiness. Almost five years! There must have been moments even that afternoon when Daisy tumbled short of his dreams—not through her own fault, but because of the colossal vitality of his illusion. It had gone beyond her, beyond everything. He had thrown himself into it with a creative passion, adding to it all the time, decking it out with every bright feather that drifted his way. No amount of fire or freshness can challenge what a man can store up in his ghostly heart.
+
+As I watched him he adjusted himself a little, visibly. His hand took hold of hers, and as she said something low in his ear he turned toward her with a rush of emotion. I think that voice held him most, with its fluctuating, feverish warmth, because it couldn’t be over-dreamed—that voice was a deathless song.
+
+They had forgotten me, but Daisy glanced up and held out her hand; Gatsby didn’t know me now at all. I looked once more at them and they looked back at me, remotely, possessed by intense life. Then I went out of the room and down the marble steps into the rain, leaving them there together.
+
+*[End of part one.]*
