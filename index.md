@@ -14,9 +14,9 @@ The other actors can also be cast against type. Daisy, for instance, could be pl
 
 When using this script, which is largely the text of the novel, productions should grapple with how to handle redundancies. If a bit of narration says that Tom stands, should the actor stand? Perhaps redundancies should be minimized, and only used occasional for comic (or some other) effect. 
 
-One approach is to purposefully create tension between NIck's version of the story and the version the other actors are performing, as if we're seeing multiple "The Great Gatsby"s overlaid, wrestling with each other, sometimes harmonizing each other or commenting on each other. At many instances, the actors can ignore narrative "stage directions." At other times they might outright contradict it. In general, each element (narration, character performance) should  add something new.
+One approach is to purposefully create tension between NIck's version of the story and the version the other actors are performing, as if we're seeing multiple "The Great Gatsby"s overlaid, wrestling with each other, sometimes harmonizing with each other or commenting on each other. In many instances, the actors can ignore narrative "stage directions." At other times they might outright contradict them. In general, each element (narration, character performance) should add something new.
 
-All of the stage directions and casting suggestions should be taken as just that: suggestions. And that includes the (usually small, sometimes large) changes to the text. Collaborators on a specific production should refer to the original book and make their own decisions regarding fidelity.
+All of the following stage directions and casting suggestions should be taken as just that: suggestions. And that includes the (usually small, sometimes large) changes to the text. Collaborators on a specific production should refer to the original book and make their own decisions regarding fidelity.
 
 A casting:
 
@@ -36,7 +36,7 @@ Most cast members play other characters and, at times, act as a chorus.
 
 ## Act One
 
-*[Books are everywhere. And readers. ACTOR ONE pulls "The Great Gatsby" from a stack, sits down, and starts reading from it. Throughout the play, ACTOR ONE continues to read from the book, even though he assumes the character of NICK. The rest of the cast perform without reading.]*
+*[Books are everywhere. And readers. Maybe various actors read short passages from some of the books. Then ACTOR ONE pulls "The Great Gatsby" from a stack, sits down, and starts reading from it. Throughout the play, ACTOR ONE continues to read from the book, even though he assumes the character of NICK. The rest of the cast perform without reading.]*
 
 **NICK (ACTOR ONE)**
 
