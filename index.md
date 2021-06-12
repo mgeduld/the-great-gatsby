@@ -36,7 +36,7 @@ Most cast members play other characters and, at times, act as a chorus.
 
 ## Act One
 
-*[Books are everywhere. And readers. Maybe various actors read short passages from some of the books. Then ACTOR ONE pulls "The Great Gatsby" from a stack, sits down, and starts reading from it. Throughout the play, ACTOR ONE continues to read from the book, even though he assumes the character of NICK. The rest of the cast perform without reading.]*
+*[Books are everywhere. And readers. Maybe various actors read short passages from some of the books. Or, as indicated below, everyone is reading in silence.Then ACTOR ONE pulls "The Great Gatsby" from a stack, sits down, and starts reading from it. Throughout the play, ACTOR ONE continues to read from the book, even though he assumes the character of NICK. The rest of the cast perform without reading.]*
 
 **NICK (ACTOR ONE)**
 
