@@ -2,7 +2,7 @@
 
 By F.Scott Fitzgerald, adapted by Marcus Geduld.
 
-Decated to Elevator Repair Service.
+Dedicated to Elevator Repair Service.
 
 ## Notes 
 
